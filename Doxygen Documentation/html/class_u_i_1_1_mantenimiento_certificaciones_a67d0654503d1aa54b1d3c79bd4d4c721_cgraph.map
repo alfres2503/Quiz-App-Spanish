@@ -1,0 +1,4 @@
+<map id="UI.MantenimientoCertificaciones.btnCancelar_Click" name="UI.MantenimientoCertificaciones.btnCancelar_Click">
+<area shape="rect" id="node1" title="Llama al método deshabilitar" alt="" coords="5,5,236,47"/>
+<area shape="rect" id="node2" href="$class_u_i_1_1_mantenimiento_certificaciones.html#a6b9ad6646a596d2c813d38a248bfd1cf" title="deshabilita y resetea o limpia botones y elementos gráficos" alt="" coords="284,13,563,39"/>
+</map>

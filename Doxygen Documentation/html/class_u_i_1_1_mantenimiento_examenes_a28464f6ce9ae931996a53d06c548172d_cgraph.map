@@ -1,0 +1,4 @@
+<map id="UI.MantenimientoExamenes.btnCancelar_Click" name="UI.MantenimientoExamenes.btnCancelar_Click">
+<area shape="rect" id="node1" title="Llama a deshabilitar" alt="" coords="5,5,212,47"/>
+<area shape="rect" id="node2" href="$class_u_i_1_1_mantenimiento_examenes.html#a5ded54c64e36b3e14e214d9eab04007f" title="deshabilita y limpia objetos gráficos" alt="" coords="260,13,515,39"/>
+</map>

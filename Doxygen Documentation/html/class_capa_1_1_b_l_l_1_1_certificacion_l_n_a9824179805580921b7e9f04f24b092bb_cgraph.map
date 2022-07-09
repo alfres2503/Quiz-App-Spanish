@@ -1,0 +1,11 @@
+<map id="Capa.BLL.CertificacionLN.Guardar" name="Capa.BLL.CertificacionLN.Guardar">
+<area shape="rect" id="node1" title="Método que guarda la certificacion en la base de datos, si encuentra un dato con ese ID,..." alt="" coords="5,71,180,112"/>
+<area shape="rect" id="node2" href="$class_capa_1_1_d_a_l_1_1_certificacion_d_b.html#af9cd4c501cd69ff75c92e9c152f7872d" title="Método que actualiza un dato en la tabla" alt="" coords="228,5,407,47"/>
+<area shape="rect" id="node6" href="$class_capa_1_1_d_a_l_1_1_certificacion_d_b.html#a4be1c6ffe4c0f2927124da0fe383ee40" title="Método que guarda la certificacion en la base de datos" alt="" coords="228,71,407,112"/>
+<area shape="rect" id="node7" href="$class_capa_1_1_b_l_l_1_1_certificacion_l_n.html#ac0ca4a67d9cf8604be778e9cb61a5fc3" title="Retorna de la tabla Certificación el dato con el ID buscado" alt="" coords="230,136,405,177"/>
+<area shape="rect" id="node3" href="$class_factory_database.html#aa672d2475fcc8dfa6c7ee8de0ec7e271" title=" " alt="" coords="695,77,897,119"/>
+<area shape="rect" id="node5" href="$interface_i_data_base.html#aaa25b726841cc38116b6240f7aae7806" title=" " alt="" coords="455,34,647,61"/>
+<area shape="rect" id="node4" href="$class_factory_conexion.html#af0cef9e7b040eae7f25fef14ac0d8750" title=" " alt="" coords="945,85,1172,111"/>
+<area shape="rect" id="node8" href="$class_capa_1_1_d_a_l_1_1_certificacion_d_b.html#a7cde2e98d340ea550f46933927ebae41" title="Retorna de la tabla Certificación el dato con el ID buscado" alt="" coords="461,136,640,177"/>
+<area shape="rect" id="node9" href="$interface_i_data_base.html#a11b1c5783c11f26e56e15a1ed3553846" title=" " alt="" coords="705,143,887,170"/>
+</map>

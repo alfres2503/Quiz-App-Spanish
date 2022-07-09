@@ -1,0 +1,7 @@
+<map id="UI.MantenimientoCertificaciones.btnAceptar_Click" name="UI.MantenimientoCertificaciones.btnAceptar_Click">
+<area shape="rect" id="node1" title="Valida los datos y los guarda/actualiza en la base de datos" alt="" coords="5,64,236,105"/>
+<area shape="rect" id="node2" href="$class_u_i_1_1_mantenimiento_certificaciones.html#ad57dd0aae446a564a488e79840a17d35" title="Llena el datagridview con las certificaciones en la base de datos" alt="" coords="317,5,529,47"/>
+<area shape="rect" id="node4" href="$class_u_i_1_1_mantenimiento_certificaciones.html#a6b9ad6646a596d2c813d38a248bfd1cf" title="deshabilita y resetea o limpia botones y elementos gráficos" alt="" coords="284,71,563,98"/>
+<area shape="rect" id="node5" href="$interface_capa_1_1_b_l_l_1_1_i_certificacion_l_n.html#af803945d67e8d371fe619f9a03ea86d5" title=" " alt="" coords="335,123,512,164"/>
+<area shape="rect" id="node3" href="$interface_capa_1_1_b_l_l_1_1_i_certificacion_l_n.html#a36714bc4d1fcb756a7c277ecfd678239" title=" " alt="" coords="611,5,788,47"/>
+</map>

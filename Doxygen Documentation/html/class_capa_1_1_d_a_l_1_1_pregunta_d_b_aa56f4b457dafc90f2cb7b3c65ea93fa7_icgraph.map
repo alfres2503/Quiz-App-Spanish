@@ -1,0 +1,5 @@
+<map id="Capa.DAL.PreguntaDB.SeleccionarPorId" name="Capa.DAL.PreguntaDB.SeleccionarPorId">
+<area shape="rect" id="node1" title="Sirve para buscar por ID una pregunta en específico" alt="" coords="504,5,731,47"/>
+<area shape="rect" id="node2" href="$class_capa_1_1_b_l_l_1_1_pregunta_l_n.html#a3d41386d3494f1b3fc89f01f17ba5522" title="Sirve para buscar por ID una pregunta en específico" alt="" coords="255,5,456,47"/>
+<area shape="rect" id="node3" href="$class_capa_1_1_b_l_l_1_1_pregunta_l_n.html#a42559e8ae03673201d12d93d785497e3" title="Guarda una pregunta en su tabla de la base de datos" alt="" coords="5,13,207,39"/>
+</map>

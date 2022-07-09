@@ -1,0 +1,11 @@
+<map id="Capa.DAL.PreguntaDB.SeleccionarPorExamen" name="Capa.DAL.PreguntaDB.SeleccionarPorExamen">
+<area shape="rect" id="node1" title="Método para ver las preguntas de un examen" alt="" coords="767,104,993,145"/>
+<area shape="rect" id="node2" href="$class_capa_1_1_d_a_l_1_1_examen_d_b.html#a01344014625b7156498fd787cd52bf86" title="Método para obtener todos los datos de la tabla Examen" alt="" coords="507,5,708,47"/>
+<area shape="rect" id="node4" href="$class_capa_1_1_d_a_l_1_1_examen_d_b.html#a71f16db4f0cae896784a701881356c34" title="Método que busca los examenes por certificación" alt="" coords="496,71,719,112"/>
+<area shape="rect" id="node6" href="$class_capa_1_1_b_l_l_1_1_pregunta_l_n.html#a0af50f6637b39bb6a414ed71439e5ac0" title="Método para ver las preguntas de un examen" alt="" coords="496,136,719,177"/>
+<area shape="rect" id="node7" href="$class_capa_1_1_d_a_l_1_1_examen_d_b.html#abdb07bb23a32c60d24e3644a6e1826e5" title="Retorna de la tabla Examen el dato con el ID buscado" alt="" coords="496,201,719,243"/>
+<area shape="rect" id="node3" href="$class_capa_1_1_b_l_l_1_1_examen_l_n.html#aaab9fccc551607360b5f0f726c9699b8" title="Método para obtener todos los datos de la tabla Examen" alt="" coords="251,5,448,47"/>
+<area shape="rect" id="node5" href="$class_capa_1_1_b_l_l_1_1_examen_l_n.html#a31bdf9dd90b3e01e8930d73702a9a8df" title="Método que busca los examenes por certificación" alt="" coords="251,71,448,112"/>
+<area shape="rect" id="node8" href="$class_capa_1_1_b_l_l_1_1_examen_l_n.html#ad160dd3b41f2756551a2198669f00f93" title="Retorna de la tabla Examen el dato con el ID buscado" alt="" coords="251,201,448,243"/>
+<area shape="rect" id="node9" href="$class_capa_1_1_b_l_l_1_1_examen_l_n.html#a4aae746e819e7803f1b2e30fa5cab7c9" title="Método que guarda el examen en la base de datos, si encuentra un dato con ese ID, lo edita" alt="" coords="5,209,203,235"/>
+</map>

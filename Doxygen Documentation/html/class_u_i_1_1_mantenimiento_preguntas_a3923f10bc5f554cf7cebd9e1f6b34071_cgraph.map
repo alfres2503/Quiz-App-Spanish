@@ -1,0 +1,5 @@
+<map id="UI.MantenimientoPreguntas.toolStripBtnNuevo_Click" name="UI.MantenimientoPreguntas.toolStripBtnNuevo_Click">
+<area shape="rect" id="node1" title="Reinicia la interfaz para crear una nueva pregunta" alt="" coords="5,23,212,65"/>
+<area shape="rect" id="node2" href="$class_u_i_1_1_mantenimiento_preguntas.html#a27d57286efa9eb664e2bd04e453d2d9a" title="deshabilita y limpia objetos gráficos" alt="" coords="260,5,512,32"/>
+<area shape="rect" id="node3" href="$class_u_i_1_1_mantenimiento_preguntas.html#a6eb8a25610385bdf30626da2f76b76eb" title="habilita objetos gráficos" alt="" coords="271,56,501,83"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="Capa.BLL.FacturaLN.ObtenerDetallePorCodigo" name="Capa.BLL.FacturaLN.ObtenerDetallePorCodigo">
+<area shape="rect" id="node1" title="Método usado para buscar una compra y empezar la realización de un examen" alt="" coords="5,35,199,76"/>
+<area shape="rect" id="node2" href="$class_capa_1_1_d_a_l_1_1_factura_d_b.html#aea326b7b93c11e6b9533ec257f959be8" title="Método usado para buscar una compra y empezar la realización de un examen" alt="" coords="247,35,444,76"/>
+<area shape="rect" id="node3" href="$class_factory_database.html#aa672d2475fcc8dfa6c7ee8de0ec7e271" title=" " alt="" coords="492,5,695,47"/>
+<area shape="rect" id="node5" href="$interface_i_data_base.html#a11b1c5783c11f26e56e15a1ed3553846" title=" " alt="" coords="503,71,684,98"/>
+<area shape="rect" id="node4" href="$class_factory_conexion.html#af0cef9e7b040eae7f25fef14ac0d8750" title=" " alt="" coords="743,13,969,39"/>
+</map>

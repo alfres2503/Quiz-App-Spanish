@@ -1,0 +1,4 @@
+<map id="Capa.DAL.ExamenDB.Actualizar" name="Capa.DAL.ExamenDB.Actualizar">
+<area shape="rect" id="node1" title="Actuliza el examen que tenga el ID buscado" alt="" coords="251,5,464,32"/>
+<area shape="rect" id="node2" href="$class_capa_1_1_b_l_l_1_1_examen_l_n.html#a4aae746e819e7803f1b2e30fa5cab7c9" title="Método que guarda el examen en la base de datos, si encuentra un dato con ese ID, lo edita" alt="" coords="5,5,203,32"/>
+</map>

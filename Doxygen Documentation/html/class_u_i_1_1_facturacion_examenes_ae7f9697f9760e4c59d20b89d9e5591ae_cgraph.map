@@ -1,0 +1,11 @@
+<map id="UI.FacturacionExamenes.FacturacionExamenes_Load" name="UI.FacturacionExamenes.FacturacionExamenes_Load">
+<area shape="rect" id="node1" title="Configura los combobox, los label y asigna el número de factura" alt="" coords="5,104,245,145"/>
+<area shape="rect" id="node2" href="$interface_capa_1_1_b_l_l_1_1_i_factura_l_n.html#a1c7d200872e7f989ef28e093e1ec22cc" title=" " alt="" coords="295,5,491,47"/>
+<area shape="rect" id="node3" href="$interface_capa_1_1_b_l_l_1_1_i_examen_l_n.html#a07dfe00c7635d2ff0403d6ca67b52920" title=" " alt="" coords="293,71,493,112"/>
+<area shape="rect" id="node4" href="$interface_capa_1_1_b_l_l_1_1_i_certificacion_l_n.html#a36714bc4d1fcb756a7c277ecfd678239" title=" " alt="" coords="305,136,482,177"/>
+<area shape="rect" id="node5" href="$class_capa_1_1_b_l_l_1_1_tarjeta_l_n.html#a28b7f7df9a3a82ac7e7fe8fea4361dbc" title="Sirve para ver todas las tarjetas" alt="" coords="299,201,487,243"/>
+<area shape="rect" id="node6" href="$class_capa_1_1_d_a_l_1_1_tarjeta_d_b.html#a51077a5f6cdf08005bcdb836cf15dd14" title="Sirve para ver todas las tarjetas" alt="" coords="541,201,733,243"/>
+<area shape="rect" id="node7" href="$class_factory_database.html#aa672d2475fcc8dfa6c7ee8de0ec7e271" title=" " alt="" coords="781,172,984,213"/>
+<area shape="rect" id="node9" href="$interface_i_data_base.html#a11b1c5783c11f26e56e15a1ed3553846" title=" " alt="" coords="792,238,973,265"/>
+<area shape="rect" id="node8" href="$class_factory_conexion.html#af0cef9e7b040eae7f25fef14ac0d8750" title=" " alt="" coords="1032,179,1259,206"/>
+</map>

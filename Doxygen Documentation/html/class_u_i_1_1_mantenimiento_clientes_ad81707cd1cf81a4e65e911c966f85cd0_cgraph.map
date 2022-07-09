@@ -1,0 +1,4 @@
+<map id="UI.MantenimientoClientes.btnCancelar_Click" name="UI.MantenimientoClientes.btnCancelar_Click">
+<area shape="rect" id="node1" title="llama al método deshabilitar" alt="" coords="5,5,197,47"/>
+<area shape="rect" id="node2" href="$class_u_i_1_1_mantenimiento_clientes.html#a870ce11bfeff24f3816e24e8d591061c" title="deshabilita y limpia elementos gráficos" alt="" coords="245,13,485,39"/>
+</map>

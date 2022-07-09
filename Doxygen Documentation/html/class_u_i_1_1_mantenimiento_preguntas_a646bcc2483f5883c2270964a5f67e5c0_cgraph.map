@@ -1,0 +1,7 @@
+<map id="UI.MantenimientoPreguntas.toolStripBtnBorrar_Click" name="UI.MantenimientoPreguntas.toolStripBtnBorrar_Click">
+<area shape="rect" id="node1" title="Pide confirmación y borra el registro seleccionado" alt="" coords="5,57,212,98"/>
+<area shape="rect" id="node2" href="$interface_capa_1_1_b_l_l_1_1_i_pregunta_l_n.html#a7e7d2cfddf99c37833778f4afaf71fec" title=" " alt="" coords="289,5,483,32"/>
+<area shape="rect" id="node3" href="$class_u_i_1_1_mantenimiento_preguntas.html#aeb13cfa0602417238768a4823b0cfd24" title="Carga los datos en el datagrid y ajusta este ultimo" alt="" coords="293,57,479,98"/>
+<area shape="rect" id="node5" href="$class_u_i_1_1_mantenimiento_preguntas.html#a27d57286efa9eb664e2bd04e453d2d9a" title="deshabilita y limpia objetos gráficos" alt="" coords="260,123,512,149"/>
+<area shape="rect" id="node4" href="$interface_capa_1_1_b_l_l_1_1_i_pregunta_l_n.html#afe7c8c1990ae8465bfcbfa93aa15c113" title=" " alt="" coords="560,57,787,98"/>
+</map>

@@ -1,0 +1,6 @@
+<map id="UI.FacturacionExamenes.btnAgregar_Click" name="UI.FacturacionExamenes.btnAgregar_Click">
+<area shape="rect" id="node1" title="Agrega las compras a la tabla de detalles de la factura y evita posibles errores" alt="" coords="5,71,196,112"/>
+<area shape="rect" id="node2" href="$class_capa_1_1_entities_1_1_enc_factura.html#a7b31158387f6d38667ea1fd6dce6be1e" title="Inserta un item comprado en la factura" alt="" coords="244,5,419,47"/>
+<area shape="rect" id="node3" href="$class_capa_1_1_entities_1_1_enc_factura.html#a6cad1b52e4132db8e5a736a54bf137fc" title="Obtiene el total que debe pagar el cliente por todos los item comprados" alt="" coords="244,71,419,112"/>
+<area shape="rect" id="node4" href="$class_u_i_1_1_banco_c.html#a9a68aa511579cde0d015cf9eb590819d" title="Retorna el cambio del dólar actual en colones" alt="" coords="259,137,403,163"/>
+</map>

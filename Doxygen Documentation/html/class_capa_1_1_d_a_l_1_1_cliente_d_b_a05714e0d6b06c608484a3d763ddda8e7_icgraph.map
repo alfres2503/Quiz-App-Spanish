@@ -1,0 +1,4 @@
+<map id="Capa.DAL.ClienteDB.AgregarCliente" name="Capa.DAL.ClienteDB.AgregarCliente">
+<area shape="rect" id="node1" title="Método que guarda el cliente en la base de datos, solo en caso de que no encuentre un dato con ese ID" alt="" coords="243,5,435,47"/>
+<area shape="rect" id="node2" href="$class_capa_1_1_b_l_l_1_1_cliente_l_n.html#a651a0562f3f28c69f38e45e307bb21f4" title="Método que guarda el cliente en la base de datos, solo en caso de que no encuentre un dato con ese ID" alt="" coords="5,13,195,39"/>
+</map>

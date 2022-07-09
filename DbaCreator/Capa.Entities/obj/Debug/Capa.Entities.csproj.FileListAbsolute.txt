@@ -1,0 +1,6 @@
+C:\Users\Alfredo\OneDrive - Universidad Técnica Nacional\Escritorio\Proyecto Programacion III\DbaCreator\Capa.Entities\bin\Debug\Capa.Entities.dll
+C:\Users\Alfredo\OneDrive - Universidad Técnica Nacional\Escritorio\Proyecto Programacion III\DbaCreator\Capa.Entities\bin\Debug\Capa.Entities.pdb
+C:\Users\Alfredo\OneDrive - Universidad Técnica Nacional\Escritorio\Proyecto Programacion III\DbaCreator\Capa.Entities\obj\Debug\Capa.Entities.csproj.CoreCompileInputs.cache
+C:\Users\Alfredo\OneDrive - Universidad Técnica Nacional\Escritorio\Proyecto Programacion III\DbaCreator\Capa.Entities\obj\Debug\Capa.Entities.dll
+C:\Users\Alfredo\OneDrive - Universidad Técnica Nacional\Escritorio\Proyecto Programacion III\DbaCreator\Capa.Entities\obj\Debug\Capa.Entities.pdb
+C:\Users\Alfredo\OneDrive - Universidad Técnica Nacional\Escritorio\Proyecto Programacion III\DbaCreator\Capa.Entities\obj\Debug\Capa.Entities.csproj.AssemblyReference.cache

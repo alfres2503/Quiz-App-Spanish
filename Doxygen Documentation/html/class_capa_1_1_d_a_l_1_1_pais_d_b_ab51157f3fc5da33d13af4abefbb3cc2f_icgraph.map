@@ -1,0 +1,8 @@
+<map id="Capa.DAL.PaisDB.ObtenerTodos" name="Capa.DAL.PaisDB.ObtenerTodos">
+<area shape="rect" id="node1" title="Usado para ver todos los países" alt="" coords="939,42,1153,69"/>
+<area shape="rect" id="node2" href="$class_capa_1_1_b_l_l_1_1_pais_l_n.html#a82d489c620f965671c52d0b55bc0cb63" title="Usado para ver todos los países" alt="" coords="680,42,891,69"/>
+<area shape="rect" id="node3" href="$class_u_i_1_1_mantenimiento_clientes.html#ab344aa894a571ca3c747f805b5f85fd6" title="Llena y ajusta datagrid, también los comboboxes" alt="" coords="443,5,632,47"/>
+<area shape="rect" id="node4" href="$class_u_i_1_1_registro.html#a1b8bf4593b871672201a13c24823149d" title="Llena el combo países" alt="" coords="451,71,624,98"/>
+<area shape="rect" id="node5" href="$class_u_i_1_1_registro.html#aed3107415f0d01413abfeb272915d160" title="Required method for Designer support &#45; do not modify the contents of this method with the code editor..." alt="" coords="192,71,395,98"/>
+<area shape="rect" id="node6" href="$class_u_i_1_1_registro.html#acce1aa651625d92c466bd5c75a707b40" title=" " alt="" coords="5,71,144,98"/>
+</map>

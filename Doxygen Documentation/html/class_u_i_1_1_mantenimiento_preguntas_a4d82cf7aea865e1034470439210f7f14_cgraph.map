@@ -1,0 +1,13 @@
+<map id="UI.MantenimientoPreguntas.MantenimientoPreguntas" name="UI.MantenimientoPreguntas.MantenimientoPreguntas">
+<area shape="rect" id="node1" title=" " alt="" coords="5,153,192,194"/>
+<area shape="rect" id="node2" href="$class_u_i_1_1_mantenimiento_preguntas.html#a8075fb42cb1a195b4b7cb7381419a32f" title="Required method for Designer support &#45; do not modify the contents of this method with the code editor..." alt="" coords="240,153,427,194"/>
+<area shape="rect" id="node3" href="$class_u_i_1_1_mantenimiento_preguntas.html#a646bcc2483f5883c2270964a5f67e5c0" title="Pide confirmación y borra el registro seleccionado" alt="" coords="475,54,681,95"/>
+<area shape="rect" id="node8" href="$class_u_i_1_1_mantenimiento_preguntas.html#aea71cbe3be7dda3d8cb4feaba6afeec2" title="Coloca los datos del objeto seleccionado en el panel derecho para su edición" alt="" coords="475,185,681,226"/>
+<area shape="rect" id="node10" href="$class_u_i_1_1_mantenimiento_preguntas.html#a3923f10bc5f554cf7cebd9e1f6b34071" title="Reinicia la interfaz para crear una nueva pregunta" alt="" coords="475,119,681,161"/>
+<area shape="rect" id="node11" href="$class_u_i_1_1_mantenimiento_preguntas.html#ac558e92b2eb60cce75734946bf68051f" title="Cierra la ventana" alt="" coords="475,250,681,291"/>
+<area shape="rect" id="node4" href="$interface_capa_1_1_b_l_l_1_1_i_pregunta_l_n.html#a7e7d2cfddf99c37833778f4afaf71fec" title=" " alt="" coords="759,5,952,32"/>
+<area shape="rect" id="node5" href="$class_u_i_1_1_mantenimiento_preguntas.html#aeb13cfa0602417238768a4823b0cfd24" title="Carga los datos en el datagrid y ajusta este ultimo" alt="" coords="762,57,949,98"/>
+<area shape="rect" id="node7" href="$class_u_i_1_1_mantenimiento_preguntas.html#a27d57286efa9eb664e2bd04e453d2d9a" title="deshabilita y limpia objetos gráficos" alt="" coords="729,125,981,152"/>
+<area shape="rect" id="node6" href="$interface_capa_1_1_b_l_l_1_1_i_pregunta_l_n.html#afe7c8c1990ae8465bfcbfa93aa15c113" title=" " alt="" coords="1029,57,1256,98"/>
+<area shape="rect" id="node9" href="$class_u_i_1_1_mantenimiento_preguntas.html#a6eb8a25610385bdf30626da2f76b76eb" title="habilita objetos gráficos" alt="" coords="740,183,971,209"/>
+</map>

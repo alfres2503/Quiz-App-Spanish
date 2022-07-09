@@ -1,0 +1,7 @@
+<map id="UI.Reportes.FrmClientesCertificados.FrmClientesCertificados" name="UI.Reportes.FrmClientesCertificados.FrmClientesCertificados">
+<area shape="rect" id="node1" title=" " alt="" coords="5,71,241,112"/>
+<area shape="rect" id="node2" href="$class_u_i_1_1_reportes_1_1_frm_clientes_certificados.html#ad9f7d521671cad67252699ce25f13511" title="Required method for Designer support &#45; do not modify the contents of this method with the code editor..." alt="" coords="289,71,525,112"/>
+<area shape="rect" id="node3" href="$class_u_i_1_1_reportes_1_1_frm_clientes_certificados.html#a21c867bac3f0a93d5e1f732a0f647b1b" title="Llena el combobox com las certificaciones existentes" alt="" coords="584,5,820,47"/>
+<area shape="rect" id="node4" href="$class_u_i_1_1_reportes_1_1_frm_clientes_certificados.html#ac6b7e78837202a0982133df14129e396" title="Carga el reporte según la certificación seleccionada en el combobox" alt="" coords="573,71,831,112"/>
+<area shape="rect" id="node5" href="$class_u_i_1_1_reportes_1_1_frm_clientes_certificados.html#a10dfc3526b0e0ed7e94069ec35c996e2" title="Cierra la ventana" alt="" coords="573,136,831,177"/>
+</map>

@@ -1,0 +1,10 @@
+<map id="Capa.BLL.IExamenLN.ObtenerTodos" name="Capa.BLL.IExamenLN.ObtenerTodos">
+<area shape="rect" id="node1" title=" " alt="" coords="976,104,1176,145"/>
+<area shape="rect" id="node2" href="$class_u_i_1_1_mantenimiento_examenes.html#ad10fa4c6627e18bf37cd2fad1a555124" title="llena el datagrid on los objetos de la bd" alt="" coords="739,104,928,145"/>
+<area shape="rect" id="node3" href="$class_u_i_1_1_mantenimiento_examenes.html#a7f8f35fa73b5f255d7684df26d2bdfbf" title="Guarda/actualiza los datos en la bd" alt="" coords="482,5,689,47"/>
+<area shape="rect" id="node4" href="$class_u_i_1_1_mantenimiento_examenes.html#a1aa5a69921bdbaf3e327ad996281104b" title="Abre una ventana para editar las preguntas del examen seleccionado" alt="" coords="482,71,689,112"/>
+<area shape="rect" id="node5" href="$class_u_i_1_1_mantenimiento_examenes.html#a65757c9c087c64260bfa3a176b50c899" title="Llena los objetos gráficos y los ajusta para su debido uso" alt="" coords="483,136,687,177"/>
+<area shape="rect" id="node6" href="$class_u_i_1_1_mantenimiento_examenes.html#a1138d6ec47ffcaa62f72f082bdd57286" title="pide confirmación y borra el registro seleccionado de la bd" alt="" coords="480,201,691,243"/>
+<area shape="rect" id="node7" href="$class_u_i_1_1_mantenimiento_examenes.html#a1f95580d9112f0066024966dad5527a9" title="Required method for Designer support &#45; do not modify the contents of this method with the code editor..." alt="" coords="243,201,432,243"/>
+<area shape="rect" id="node8" href="$class_u_i_1_1_mantenimiento_examenes.html#a68112422f56bd1a01e85e8b2cb2e4788" title=" " alt="" coords="5,201,195,243"/>
+</map>

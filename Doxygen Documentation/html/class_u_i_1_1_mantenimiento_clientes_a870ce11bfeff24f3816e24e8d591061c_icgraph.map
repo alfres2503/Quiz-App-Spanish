@@ -1,0 +1,5 @@
+<map id="UI.MantenimientoClientes.deshabilitar" name="UI.MantenimientoClientes.deshabilitar">
+<area shape="rect" id="node1" title="deshabilita y limpia elementos gráficos" alt="" coords="245,46,485,73"/>
+<area shape="rect" id="node2" href="$class_u_i_1_1_mantenimiento_clientes.html#ad7b39021b50735c6104ea5a3a7d2fb84" title="Actualiza los datos del cliente editado en la bd" alt="" coords="5,5,197,47"/>
+<area shape="rect" id="node3" href="$class_u_i_1_1_mantenimiento_clientes.html#ad81707cd1cf81a4e65e911c966f85cd0" title="llama al método deshabilitar" alt="" coords="5,71,197,112"/>
+</map>

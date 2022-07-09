@@ -1,0 +1,12 @@
+<map id="UI.MantenimientoExamenes.InitializeComponent" name="UI.MantenimientoExamenes.InitializeComponent">
+<area shape="rect" id="node1" title="Required method for Designer support &#45; do not modify the contents of this method with the code editor..." alt="" coords="5,153,195,194"/>
+<area shape="rect" id="node2" href="$class_u_i_1_1_mantenimiento_examenes.html#a1138d6ec47ffcaa62f72f082bdd57286" title="pide confirmación y borra el registro seleccionado de la bd" alt="" coords="243,54,453,95"/>
+<area shape="rect" id="node7" href="$class_u_i_1_1_mantenimiento_examenes.html#a28915e3cb12a63036d237a7daaa6c3f8" title="Coloca los datos del objeto seleccionado en el panel derecho para su edición" alt="" coords="243,185,453,226"/>
+<area shape="rect" id="node9" href="$class_u_i_1_1_mantenimiento_examenes.html#a5042a1e57592af465c0d23cb7750c9c7" title="Reinicia la interfaz para crear un nuevo examen" alt="" coords="243,119,453,161"/>
+<area shape="rect" id="node10" href="$class_u_i_1_1_mantenimiento_examenes.html#a9fc9d02cae216b459b62b7ac842ec7ca" title="cierra la ventana" alt="" coords="243,250,453,291"/>
+<area shape="rect" id="node3" href="$interface_capa_1_1_b_l_l_1_1_i_examen_l_n.html#a9c6504baded5af35893c22240e30c92f" title=" " alt="" coords="534,5,723,32"/>
+<area shape="rect" id="node4" href="$class_u_i_1_1_mantenimiento_examenes.html#ad10fa4c6627e18bf37cd2fad1a555124" title="llena el datagrid on los objetos de la bd" alt="" coords="534,57,723,98"/>
+<area shape="rect" id="node6" href="$class_u_i_1_1_mantenimiento_examenes.html#a5ded54c64e36b3e14e214d9eab04007f" title="deshabilita y limpia objetos gráficos" alt="" coords="501,125,756,152"/>
+<area shape="rect" id="node5" href="$interface_capa_1_1_b_l_l_1_1_i_examen_l_n.html#ab33b521d1030661ba949fd2c9f91c51e" title=" " alt="" coords="804,57,1004,98"/>
+<area shape="rect" id="node8" href="$class_u_i_1_1_mantenimiento_examenes.html#aca855d88cbca12546e122d3cee0855f0" title="Habilita objetos gráficos" alt="" coords="511,183,746,209"/>
+</map>

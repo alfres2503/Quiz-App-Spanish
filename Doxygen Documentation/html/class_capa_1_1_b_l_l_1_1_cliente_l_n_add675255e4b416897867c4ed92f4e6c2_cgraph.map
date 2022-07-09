@@ -1,0 +1,7 @@
+<map id="Capa.BLL.ClienteLN.ObtenerPorTelefono" name="Capa.BLL.ClienteLN.ObtenerPorTelefono">
+<area shape="rect" id="node1" title="Retorna de la tabla Cliente el dato con el telefono buscado" alt="" coords="5,35,195,76"/>
+<area shape="rect" id="node2" href="$class_capa_1_1_d_a_l_1_1_cliente_d_b.html#a66eb5a6fd4d2d7a8fcaa0c1f62a46935" title="Retorna de la tabla Cliente el dato con el telefono buscado" alt="" coords="243,35,457,76"/>
+<area shape="rect" id="node3" href="$class_factory_database.html#aa672d2475fcc8dfa6c7ee8de0ec7e271" title=" " alt="" coords="505,5,708,47"/>
+<area shape="rect" id="node5" href="$interface_i_data_base.html#a11b1c5783c11f26e56e15a1ed3553846" title=" " alt="" coords="516,71,697,98"/>
+<area shape="rect" id="node4" href="$class_factory_conexion.html#af0cef9e7b040eae7f25fef14ac0d8750" title=" " alt="" coords="756,13,983,39"/>
+</map>

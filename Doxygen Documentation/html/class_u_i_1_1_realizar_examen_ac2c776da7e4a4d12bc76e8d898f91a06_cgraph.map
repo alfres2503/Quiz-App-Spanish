@@ -1,0 +1,8 @@
+<map id="UI.RealizarExamen.RevisarExamen" name="UI.RealizarExamen.RevisarExamen">
+<area shape="rect" id="node1" title="Revisa el resultado final del examen, en caso de aprobado abre el reporte de certificado" alt="" coords="5,35,184,76"/>
+<area shape="rect" id="node2" href="$class_capa_1_1_b_l_l_1_1_intento_l_n.html#ad894dac8e3a20abcf3ae05e8951d632b" title="Si el cliente gana el examen se marca como exitoso" alt="" coords="232,35,415,76"/>
+<area shape="rect" id="node3" href="$class_capa_1_1_d_a_l_1_1_intento_d_b.html#a6f208d51257caefd9930dd95de90958f" title="Si el cliente gana el examen se marca como exitoso" alt="" coords="463,35,649,76"/>
+<area shape="rect" id="node4" href="$class_factory_database.html#aa672d2475fcc8dfa6c7ee8de0ec7e271" title=" " alt="" coords="697,5,900,47"/>
+<area shape="rect" id="node6" href="$interface_i_data_base.html#aaa25b726841cc38116b6240f7aae7806" title=" " alt="" coords="703,71,895,98"/>
+<area shape="rect" id="node5" href="$class_factory_conexion.html#af0cef9e7b040eae7f25fef14ac0d8750" title=" " alt="" coords="948,13,1175,39"/>
+</map>

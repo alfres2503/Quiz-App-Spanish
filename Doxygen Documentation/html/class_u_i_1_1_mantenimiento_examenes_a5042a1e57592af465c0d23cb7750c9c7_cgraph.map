@@ -1,0 +1,5 @@
+<map id="UI.MantenimientoExamenes.toolStripBtnNuevo_Click" name="UI.MantenimientoExamenes.toolStripBtnNuevo_Click">
+<area shape="rect" id="node1" title="Reinicia la interfaz para crear un nuevo examen" alt="" coords="5,23,216,65"/>
+<area shape="rect" id="node2" href="$class_u_i_1_1_mantenimiento_examenes.html#a5ded54c64e36b3e14e214d9eab04007f" title="deshabilita y limpia objetos gráficos" alt="" coords="264,5,519,32"/>
+<area shape="rect" id="node3" href="$class_u_i_1_1_mantenimiento_examenes.html#aca855d88cbca12546e122d3cee0855f0" title="Habilita objetos gráficos" alt="" coords="274,56,509,83"/>
+</map>

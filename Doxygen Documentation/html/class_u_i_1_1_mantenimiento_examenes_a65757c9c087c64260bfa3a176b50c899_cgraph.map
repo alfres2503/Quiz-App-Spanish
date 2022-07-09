@@ -1,0 +1,6 @@
+<map id="UI.MantenimientoExamenes.MantenimientoExamenes_Load" name="UI.MantenimientoExamenes.MantenimientoExamenes_Load">
+<area shape="rect" id="node1" title="Llena los objetos gráficos y los ajusta para su debido uso" alt="" coords="5,39,209,80"/>
+<area shape="rect" id="node2" href="$class_u_i_1_1_mantenimiento_examenes.html#ad10fa4c6627e18bf37cd2fad1a555124" title="llena el datagrid on los objetos de la bd" alt="" coords="257,5,447,47"/>
+<area shape="rect" id="node4" href="$interface_capa_1_1_b_l_l_1_1_i_certificacion_l_n.html#a36714bc4d1fcb756a7c277ecfd678239" title=" " alt="" coords="263,71,441,112"/>
+<area shape="rect" id="node3" href="$interface_capa_1_1_b_l_l_1_1_i_examen_l_n.html#ab33b521d1030661ba949fd2c9f91c51e" title=" " alt="" coords="495,5,695,47"/>
+</map>

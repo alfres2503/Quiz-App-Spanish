@@ -1,0 +1,6 @@
+<map id="UI.Menu.Menu" name="UI.Menu.Menu">
+<area shape="rect" id="node1" title=" " alt="" coords="5,46,112,73"/>
+<area shape="rect" id="node2" href="$class_u_i_1_1_menu.html#a6f54c4df4c4c2b2b6ae39587feefb0d7" title="Required method for Designer support &#45; do not modify the contents of this method with the code editor..." alt="" coords="160,46,347,73"/>
+<area shape="rect" id="node3" href="$class_u_i_1_1_menu.html#a664f34e4a2e3768e52c0191ffc4876cf" title="Crea una nueva ventana MDI de facturación" alt="" coords="395,5,584,47"/>
+<area shape="rect" id="node4" href="$class_u_i_1_1_menu.html#acea064b1570a0564b82417a21ff264ed" title="Crea una nueva ventana MDI de realización de examen" alt="" coords="395,71,583,112"/>
+</map>

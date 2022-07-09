@@ -1,0 +1,10 @@
+<map id="UI.FacturacionExamenes.FacturacionExamenes" name="UI.FacturacionExamenes.FacturacionExamenes">
+<area shape="rect" id="node1" title=" " alt="" coords="5,131,245,172"/>
+<area shape="rect" id="node2" href="$class_u_i_1_1_facturacion_examenes.html#a0eb892ba12c2c292c3ba7025f3f17086" title="Required method for Designer support &#45; do not modify the contents of this method with the code editor..." alt="" coords="293,131,512,172"/>
+<area shape="rect" id="node3" href="$class_u_i_1_1_facturacion_examenes.html#ac1c5895f91df36fda08a78436ae0eef4" title="Agrega las compras a la tabla de detalles de la factura y evita posibles errores" alt="" coords="563,84,754,125"/>
+<area shape="rect" id="node7" href="$class_u_i_1_1_facturacion_examenes.html#a3b020e5ea7400e3da3997744aeae3e55" title="Cambia el examen por uno de la certificación seleccionada al cambiar la certificación" alt="" coords="560,163,757,204"/>
+<area shape="rect" id="node4" href="$class_capa_1_1_entities_1_1_enc_factura.html#a7b31158387f6d38667ea1fd6dce6be1e" title="Inserta un item comprado en la factura" alt="" coords="818,5,993,47"/>
+<area shape="rect" id="node5" href="$class_capa_1_1_entities_1_1_enc_factura.html#a6cad1b52e4132db8e5a736a54bf137fc" title="Obtiene el total que debe pagar el cliente por todos los item comprados" alt="" coords="818,71,993,112"/>
+<area shape="rect" id="node6" href="$class_u_i_1_1_banco_c.html#a9a68aa511579cde0d015cf9eb590819d" title="Retorna el cambio del dólar actual en colones" alt="" coords="833,137,977,163"/>
+<area shape="rect" id="node8" href="$interface_capa_1_1_b_l_l_1_1_i_examen_l_n.html#a07dfe00c7635d2ff0403d6ca67b52920" title=" " alt="" coords="805,188,1005,229"/>
+</map>

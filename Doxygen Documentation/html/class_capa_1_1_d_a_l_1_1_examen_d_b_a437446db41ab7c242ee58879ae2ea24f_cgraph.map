@@ -1,0 +1,6 @@
+<map id="Capa.DAL.ExamenDB.Actualizar" name="Capa.DAL.ExamenDB.Actualizar">
+<area shape="rect" id="node1" title="Actuliza el examen que tenga el ID buscado" alt="" coords="5,42,219,69"/>
+<area shape="rect" id="node2" href="$class_factory_database.html#aa672d2475fcc8dfa6c7ee8de0ec7e271" title=" " alt="" coords="267,5,469,47"/>
+<area shape="rect" id="node4" href="$interface_i_data_base.html#aaa25b726841cc38116b6240f7aae7806" title=" " alt="" coords="272,71,464,98"/>
+<area shape="rect" id="node3" href="$class_factory_conexion.html#af0cef9e7b040eae7f25fef14ac0d8750" title=" " alt="" coords="517,13,744,39"/>
+</map>

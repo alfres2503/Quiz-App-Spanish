@@ -1,0 +1,9 @@
+<map id="Capa.BLL.ClienteLN.Guardar" name="Capa.BLL.ClienteLN.Guardar">
+<area shape="rect" id="node1" title="Método que guarda el cliente en la base de datos, solo en caso de que no encuentre un dato con ese ID" alt="" coords="5,65,195,92"/>
+<area shape="rect" id="node2" href="$class_capa_1_1_d_a_l_1_1_cliente_d_b.html#a05714e0d6b06c608484a3d763ddda8e7" title="Método que guarda el cliente en la base de datos, solo en caso de que no encuentre un dato con ese ID" alt="" coords="254,25,446,66"/>
+<area shape="rect" id="node6" href="$class_capa_1_1_d_a_l_1_1_cliente_d_b.html#af8dceafce8b16379b41dba12dd505fb0" title="Retorna de la tabla Cliente el dato con el ID buscado" alt="" coords="243,90,457,131"/>
+<area shape="rect" id="node3" href="$class_factory_database.html#aa672d2475fcc8dfa6c7ee8de0ec7e271" title=" " alt="" coords="505,57,708,98"/>
+<area shape="rect" id="node5" href="$interface_i_data_base.html#aaa25b726841cc38116b6240f7aae7806" title=" " alt="" coords="511,5,703,32"/>
+<area shape="rect" id="node4" href="$class_factory_conexion.html#af0cef9e7b040eae7f25fef14ac0d8750" title=" " alt="" coords="756,64,983,91"/>
+<area shape="rect" id="node7" href="$interface_i_data_base.html#a11b1c5783c11f26e56e15a1ed3553846" title=" " alt="" coords="516,123,697,149"/>
+</map>

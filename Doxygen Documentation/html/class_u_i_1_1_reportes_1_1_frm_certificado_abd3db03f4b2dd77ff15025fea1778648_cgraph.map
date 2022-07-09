@@ -1,0 +1,4 @@
+<map id="UI.Reportes.FrmCertificado.toolStripBtnExportarPDF_Click" name="UI.Reportes.FrmCertificado.toolStripBtnExportarPDF_Click">
+<area shape="rect" id="node1" title="Exporta el pdf" alt="" coords="5,5,208,47"/>
+<area shape="rect" id="node2" href="$class_u_i_1_1_reportes_1_1_frm_certificado.html#a0c23681a728d0c028061c0797ed70504" title="Método que genera el pdf de la certificación" alt="" coords="256,5,439,47"/>
+</map>

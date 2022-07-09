@@ -1,0 +1,7 @@
+<map id="Capa.BLL.PreguntaLN.Borrar" name="Capa.BLL.PreguntaLN.Borrar">
+<area shape="rect" id="node1" title="Borra la pregunta cuyo id sea igual al parámetro" alt="" coords="5,42,196,69"/>
+<area shape="rect" id="node2" href="$class_capa_1_1_d_a_l_1_1_pregunta_d_b.html#ae47c862c70d83e70972deb36f63c5c8a" title="Borra la pregunta cuyo id sea igual al parámetro" alt="" coords="244,42,439,69"/>
+<area shape="rect" id="node3" href="$class_factory_database.html#aa672d2475fcc8dfa6c7ee8de0ec7e271" title=" " alt="" coords="487,5,689,47"/>
+<area shape="rect" id="node5" href="$interface_i_data_base.html#aaa25b726841cc38116b6240f7aae7806" title=" " alt="" coords="492,71,684,98"/>
+<area shape="rect" id="node4" href="$class_factory_conexion.html#af0cef9e7b040eae7f25fef14ac0d8750" title=" " alt="" coords="737,13,964,39"/>
+</map>

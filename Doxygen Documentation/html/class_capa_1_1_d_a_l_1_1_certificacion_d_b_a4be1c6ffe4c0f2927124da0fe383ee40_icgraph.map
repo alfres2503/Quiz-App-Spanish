@@ -1,0 +1,4 @@
+<map id="Capa.DAL.CertificacionDB.AgregarCertificacion" name="Capa.DAL.CertificacionDB.AgregarCertificacion">
+<area shape="rect" id="node1" title="Método que guarda la certificacion en la base de datos" alt="" coords="228,5,407,47"/>
+<area shape="rect" id="node2" href="$class_capa_1_1_b_l_l_1_1_certificacion_l_n.html#a9824179805580921b7e9f04f24b092bb" title="Método que guarda la certificacion en la base de datos, si encuentra un dato con ese ID,..." alt="" coords="5,5,180,47"/>
+</map>

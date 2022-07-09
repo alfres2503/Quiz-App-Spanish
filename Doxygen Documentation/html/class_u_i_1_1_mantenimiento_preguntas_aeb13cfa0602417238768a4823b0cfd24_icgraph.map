@@ -1,0 +1,8 @@
+<map id="UI.MantenimientoPreguntas.CargarDatos" name="UI.MantenimientoPreguntas.CargarDatos">
+<area shape="rect" id="node1" title="Carga los datos en el datagrid y ajusta este ultimo" alt="" coords="729,71,916,112"/>
+<area shape="rect" id="node2" href="$class_u_i_1_1_mantenimiento_preguntas.html#a02104176af1560ada05fbb19e5de715c" title="Guarda/actualiza los datos en la bd" alt="" coords="476,5,680,47"/>
+<area shape="rect" id="node3" href="$class_u_i_1_1_mantenimiento_preguntas.html#a57db11f4b880a066281c7e72ec42dd6c" title="Carga los datos y ajusta los elementos gráficos" alt="" coords="477,71,679,112"/>
+<area shape="rect" id="node4" href="$class_u_i_1_1_mantenimiento_preguntas.html#a646bcc2483f5883c2270964a5f67e5c0" title="Pide confirmación y borra el registro seleccionado" alt="" coords="475,136,681,177"/>
+<area shape="rect" id="node5" href="$class_u_i_1_1_mantenimiento_preguntas.html#a8075fb42cb1a195b4b7cb7381419a32f" title="Required method for Designer support &#45; do not modify the contents of this method with the code editor..." alt="" coords="240,136,427,177"/>
+<area shape="rect" id="node6" href="$class_u_i_1_1_mantenimiento_preguntas.html#a4d82cf7aea865e1034470439210f7f14" title=" " alt="" coords="5,136,192,177"/>
+</map>

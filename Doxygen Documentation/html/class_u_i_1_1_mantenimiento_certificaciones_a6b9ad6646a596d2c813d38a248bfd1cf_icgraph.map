@@ -1,0 +1,9 @@
+<map id="UI.MantenimientoCertificaciones.deshabilitar" name="UI.MantenimientoCertificaciones.deshabilitar">
+<area shape="rect" id="node1" title="deshabilita y resetea o limpia botones y elementos gráficos" alt="" coords="807,111,1085,138"/>
+<area shape="rect" id="node2" href="$class_u_i_1_1_mantenimiento_certificaciones.html#a55f6e33b3bcdc804f74fef1567895aaa" title="Valida los datos y los guarda/actualiza en la base de datos" alt="" coords="527,5,757,47"/>
+<area shape="rect" id="node5" href="$class_u_i_1_1_mantenimiento_certificaciones.html#a67d0654503d1aa54b1d3c79bd4d4c721" title="Llama al método deshabilitar" alt="" coords="527,71,757,112"/>
+<area shape="rect" id="node6" href="$class_u_i_1_1_mantenimiento_certificaciones.html#a96cd5477add35d19c82efc0b3d4ba673" title="Pregunta al usuario si está seguro de querer borrar y mediante la capa BLL borra dcho registro" alt="" coords="525,136,759,177"/>
+<area shape="rect" id="node7" href="$class_u_i_1_1_mantenimiento_certificaciones.html#aa23bf4a7f8c01aecb02712a1f2b9fd21" title="Se resetea la ventana para poder crear una nueva certificación" alt="" coords="525,201,759,243"/>
+<area shape="rect" id="node3" href="$class_u_i_1_1_mantenimiento_certificaciones.html#a7956174ef9b67b4400b818e2efbeab65" title="Required method for Designer support &#45; do not modify the contents of this method with the code editor..." alt="" coords="265,104,477,145"/>
+<area shape="rect" id="node4" href="$class_u_i_1_1_mantenimiento_certificaciones.html#ad204b374e23326eeca895222fdbad63a" title=" " alt="" coords="5,104,217,145"/>
+</map>

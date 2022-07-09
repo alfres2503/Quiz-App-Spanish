@@ -1,0 +1,11 @@
+<map id="UI.Reportes.DataSetReportes.InitVars" name="UI.Reportes.DataSetReportes.InitVars">
+<area shape="rect" id="node1" title=" " alt="" coords="5,283,203,325"/>
+<area shape="rect" id="node2" href="$class_u_i_1_1_reportes_1_1_data_set_reportes_1_1_p_a___seleccionar_detalles_por_factura_data_table.html#afc2788f3c3f57ed9f4aee6de3096809f" title=" " alt="" coords="261,5,487,61"/>
+<area shape="rect" id="node3" href="$class_u_i_1_1_reportes_1_1_data_set_reportes_1_1_p_a___datos_certificacion_data_table.html#a18976c300af55b168a85daa654d44819" title=" " alt="" coords="267,85,481,141"/>
+<area shape="rect" id="node4" href="$class_u_i_1_1_reportes_1_1_data_set_reportes_1_1_p_a___reporte_clientes_nombre_data_table.html#ae2e9d3a89c0981dd4b8fd9e70e57273b" title=" " alt="" coords="251,165,497,221"/>
+<area shape="rect" id="node5" href="$class_u_i_1_1_reportes_1_1_data_set_reportes_1_1_p_a___reporte_ventas_data_table.html#aa3c00abcb658a662b7bb4c27af49ee8c" title=" " alt="" coords="255,246,493,287"/>
+<area shape="rect" id="node6" href="$class_u_i_1_1_reportes_1_1_data_set_reportes_1_1_p_a___reporte_examenes_realizados_data_table.html#adfeb7c68f0c726539c7e00e2bfb8822f" title=" " alt="" coords="251,312,497,368"/>
+<area shape="rect" id="node7" href="$class_u_i_1_1_reportes_1_1_data_set_reportes_1_1_p_a___reporte_clientes_data_table.html#ad97433b282d44c059132f6f3b2541b77" title=" " alt="" coords="251,393,497,434"/>
+<area shape="rect" id="node8" href="$class_u_i_1_1_reportes_1_1_data_set_reportes_1_1_p_a___reporte_clientes_certificados_data_table.html#a5144591e50a4a7369b3f90fd15288395" title=" " alt="" coords="257,459,491,515"/>
+<area shape="rect" id="node9" href="$class_u_i_1_1_reportes_1_1_data_set_reportes_1_1_p_a___reporte_grafico_data_table.html#a592927a28ba35aab3782f601ef7fe21d" title=" " alt="" coords="255,539,493,581"/>
+</map>

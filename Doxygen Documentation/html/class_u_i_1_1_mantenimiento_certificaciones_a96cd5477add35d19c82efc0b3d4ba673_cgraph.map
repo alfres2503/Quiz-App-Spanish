@@ -1,0 +1,7 @@
+<map id="UI.MantenimientoCertificaciones.toolStripBtnBorrar_Click" name="UI.MantenimientoCertificaciones.toolStripBtnBorrar_Click">
+<area shape="rect" id="node1" title="Pregunta al usuario si está seguro de querer borrar y mediante la capa BLL borra dcho registro" alt="" coords="5,71,239,112"/>
+<area shape="rect" id="node2" href="$interface_capa_1_1_b_l_l_1_1_i_certificacion_l_n.html#a92c6400fcc3c5be4d58d3266c5eff0f3" title=" " alt="" coords="337,5,515,47"/>
+<area shape="rect" id="node3" href="$class_u_i_1_1_mantenimiento_certificaciones.html#ad57dd0aae446a564a488e79840a17d35" title="Llena el datagridview con las certificaciones en la base de datos" alt="" coords="320,71,532,112"/>
+<area shape="rect" id="node5" href="$class_u_i_1_1_mantenimiento_certificaciones.html#a6b9ad6646a596d2c813d38a248bfd1cf" title="deshabilita y resetea o limpia botones y elementos gráficos" alt="" coords="287,137,565,163"/>
+<area shape="rect" id="node4" href="$interface_capa_1_1_b_l_l_1_1_i_certificacion_l_n.html#a36714bc4d1fcb756a7c277ecfd678239" title=" " alt="" coords="613,71,791,112"/>
+</map>

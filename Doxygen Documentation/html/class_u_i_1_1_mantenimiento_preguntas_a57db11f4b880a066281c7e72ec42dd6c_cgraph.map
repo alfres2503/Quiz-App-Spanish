@@ -1,0 +1,5 @@
+<map id="UI.MantenimientoPreguntas.MantenimientoPreguntas_Load" name="UI.MantenimientoPreguntas.MantenimientoPreguntas_Load">
+<area shape="rect" id="node1" title="Carga los datos y ajusta los elementos gráficos" alt="" coords="5,5,207,47"/>
+<area shape="rect" id="node2" href="$class_u_i_1_1_mantenimiento_preguntas.html#aeb13cfa0602417238768a4823b0cfd24" title="Carga los datos en el datagrid y ajusta este ultimo" alt="" coords="255,5,441,47"/>
+<area shape="rect" id="node3" href="$interface_capa_1_1_b_l_l_1_1_i_pregunta_l_n.html#afe7c8c1990ae8465bfcbfa93aa15c113" title=" " alt="" coords="489,5,716,47"/>
+</map>

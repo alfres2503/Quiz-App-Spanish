@@ -1,0 +1,5 @@
+<map id="Capa.DAL.ClienteDB.SeleccionarPorId" name="Capa.DAL.ClienteDB.SeleccionarPorId">
+<area shape="rect" id="node1" title="Retorna de la tabla Cliente el dato con el ID buscado" alt="" coords="243,27,457,69"/>
+<area shape="rect" id="node2" href="$class_capa_1_1_b_l_l_1_1_cliente_l_n.html#a651a0562f3f28c69f38e45e307bb21f4" title="Método que guarda el cliente en la base de datos, solo en caso de que no encuentre un dato con ese ID" alt="" coords="5,5,195,32"/>
+<area shape="rect" id="node3" href="$class_capa_1_1_b_l_l_1_1_cliente_l_n.html#a1da26b1331b409a5cdbb8d0468dba97f" title="Retorna de la tabla Cliente el dato con el ID buscado" alt="" coords="5,57,195,98"/>
+</map>

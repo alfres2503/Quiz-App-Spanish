@@ -1,0 +1,6 @@
+<map id="UI.Reportes.DataSetReportesTableAdapters.TableAdapterManager.UpdateAll" name="UI.Reportes.DataSetReportesTableAdapters.TableAdapterManager.UpdateAll">
+<area shape="rect" id="node1" title="Update all changes to the dataset. /summary&gt;" alt="" coords="5,85,244,141"/>
+<area shape="rect" id="node2" href="$class_u_i_1_1_reportes_1_1_data_set_reportes_table_adapters_1_1_table_adapter_manager.html#a6bc7a04431f22d12fddc4786bd0a78af" title="Delete rows in bottom&#45;up order. /summary&gt;" alt="" coords="292,5,531,61"/>
+<area shape="rect" id="node3" href="$class_u_i_1_1_reportes_1_1_data_set_reportes_table_adapters_1_1_table_adapter_manager.html#a21ffe3e8dd36a033413be2f8ee2e9f0a" title="Insert rows in top&#45;down order. /summary&gt;" alt="" coords="292,85,531,141"/>
+<area shape="rect" id="node4" href="$class_u_i_1_1_reportes_1_1_data_set_reportes_table_adapters_1_1_table_adapter_manager.html#ab41022f1d4b95850ecb8dfa3a9d0beeb" title="Update rows in top&#45;down order. /summary&gt;" alt="" coords="292,165,531,221"/>
+</map>

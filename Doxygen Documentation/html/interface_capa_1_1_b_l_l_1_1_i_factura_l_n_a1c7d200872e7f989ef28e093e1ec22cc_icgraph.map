@@ -1,0 +1,5 @@
+<map id="Capa.BLL.IFacturaLN.ObtenerNumeroDeFacturaActual" name="Capa.BLL.IFacturaLN.ObtenerNumeroDeFacturaActual">
+<area shape="rect" id="node1" title=" " alt="" coords="293,39,489,80"/>
+<area shape="rect" id="node2" href="$class_u_i_1_1_facturacion_examenes.html#ae7f9697f9760e4c59d20b89d9e5591ae" title="Configura los combobox, los label y asigna el número de factura" alt="" coords="5,5,245,47"/>
+<area shape="rect" id="node3" href="$class_u_i_1_1_facturacion_examenes.html#abed4ec09ef06cea1e65cdcc6e8096ef8" title="Resetea la interfaz para empezar la compra de nuevo" alt="" coords="29,71,222,112"/>
+</map>

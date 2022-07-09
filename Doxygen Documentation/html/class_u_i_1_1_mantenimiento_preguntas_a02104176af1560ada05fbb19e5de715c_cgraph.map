@@ -1,0 +1,8 @@
+<map id="UI.MantenimientoPreguntas.btnAceptar_Click" name="UI.MantenimientoPreguntas.btnAceptar_Click">
+<area shape="rect" id="node1" title="Guarda/actualiza los datos en la bd" alt="" coords="5,89,209,131"/>
+<area shape="rect" id="node2" href="$class_u_i_1_1_mantenimiento_preguntas.html#aeb13cfa0602417238768a4823b0cfd24" title="Carga los datos en el datagrid y ajusta este ultimo" alt="" coords="290,5,477,47"/>
+<area shape="rect" id="node4" href="$class_u_i_1_1_mantenimiento_preguntas.html#a27d57286efa9eb664e2bd04e453d2d9a" title="deshabilita y limpia objetos gráficos" alt="" coords="257,71,509,98"/>
+<area shape="rect" id="node5" href="$interface_capa_1_1_b_l_l_1_1_i_pregunta_l_n.html#a9c1408ecd69ecd67d2dbe672c04c6e8b" title=" " alt="" coords="281,122,485,149"/>
+<area shape="rect" id="node6" href="$class_u_i_1_1_mantenimiento_preguntas.html#a430fd85f6c4315e6a96cc747f74f30e1" title="Convierte la imagen a bytes" alt="" coords="269,173,497,215"/>
+<area shape="rect" id="node3" href="$interface_capa_1_1_b_l_l_1_1_i_pregunta_l_n.html#afe7c8c1990ae8465bfcbfa93aa15c113" title=" " alt="" coords="557,5,784,47"/>
+</map>

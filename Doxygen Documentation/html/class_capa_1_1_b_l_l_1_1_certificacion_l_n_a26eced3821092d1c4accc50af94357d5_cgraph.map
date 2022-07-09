@@ -1,0 +1,7 @@
+<map id="Capa.BLL.CertificacionLN.Borrar" name="Capa.BLL.CertificacionLN.Borrar">
+<area shape="rect" id="node1" title="Borra el dato de la tabla con el ID enviado" alt="" coords="5,35,180,76"/>
+<area shape="rect" id="node2" href="$class_capa_1_1_d_a_l_1_1_certificacion_d_b.html#a1882559c4d9316191d790ad3a966c571" title="Borra el dato de la tabla con el ID enviado" alt="" coords="228,35,407,76"/>
+<area shape="rect" id="node3" href="$class_factory_database.html#aa672d2475fcc8dfa6c7ee8de0ec7e271" title=" " alt="" coords="455,5,657,47"/>
+<area shape="rect" id="node5" href="$interface_i_data_base.html#aaa25b726841cc38116b6240f7aae7806" title=" " alt="" coords="460,71,652,98"/>
+<area shape="rect" id="node4" href="$class_factory_conexion.html#af0cef9e7b040eae7f25fef14ac0d8750" title=" " alt="" coords="705,13,932,39"/>
+</map>

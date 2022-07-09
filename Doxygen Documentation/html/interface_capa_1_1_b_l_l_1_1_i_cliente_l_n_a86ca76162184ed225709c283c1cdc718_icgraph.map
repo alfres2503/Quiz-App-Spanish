@@ -1,0 +1,10 @@
+<map id="Capa.BLL.IClienteLN.ObtenerTodos" name="Capa.BLL.IClienteLN.ObtenerTodos">
+<area shape="rect" id="node1" title=" " alt="" coords="916,104,1108,145"/>
+<area shape="rect" id="node2" href="$class_u_i_1_1_mantenimiento_clientes.html#a7d7e35bdf150f7e4d1b9d65ef946ff3d" title="Carga los datos de la bd al datagrid y ajusta este para que se vea bien" alt="" coords="693,104,868,145"/>
+<area shape="rect" id="node3" href="$class_u_i_1_1_mantenimiento_clientes.html#ad7b39021b50735c6104ea5a3a7d2fb84" title="Actualiza los datos del cliente editado en la bd" alt="" coords="452,5,644,47"/>
+<area shape="rect" id="node4" href="$class_u_i_1_1_mantenimiento_clientes.html#ab344aa894a571ca3c747f805b5f85fd6" title="Llena y ajusta datagrid, también los comboboxes" alt="" coords="453,71,643,112"/>
+<area shape="rect" id="node5" href="$class_u_i_1_1_mantenimiento_clientes.html#a8b6a02dadc4fcddbe1240487c2532aec" title="Pide confirmación al usuario y borra el registro seleccionado" alt="" coords="451,136,645,177"/>
+<area shape="rect" id="node8" href="$class_u_i_1_1_mantenimiento_clientes.html#a627fe5f235670c3fed4f9e31d03eecf6" title="Llama a la ventana de registro" alt="" coords="451,201,645,243"/>
+<area shape="rect" id="node6" href="$class_u_i_1_1_mantenimiento_clientes.html#aa9ddf1a9c09d5e04a49cf9d5c45b185f" title="Required method for Designer support &#45; do not modify the contents of this method with the code editor..." alt="" coords="228,169,403,211"/>
+<area shape="rect" id="node7" href="$class_u_i_1_1_mantenimiento_clientes.html#a080d62a8379579bcf260ddce3d035c08" title=" " alt="" coords="5,169,180,211"/>
+</map>

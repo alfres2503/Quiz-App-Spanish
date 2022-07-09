@@ -1,0 +1,5 @@
+<map id="Capa.DAL.ExamenDB.SeleccionarPorId" name="Capa.DAL.ExamenDB.SeleccionarPorId">
+<area shape="rect" id="node1" title="Retorna de la tabla Examen el dato con el ID buscado" alt="" coords="496,5,719,47"/>
+<area shape="rect" id="node2" href="$class_capa_1_1_b_l_l_1_1_examen_l_n.html#ad160dd3b41f2756551a2198669f00f93" title="Retorna de la tabla Examen el dato con el ID buscado" alt="" coords="251,5,448,47"/>
+<area shape="rect" id="node3" href="$class_capa_1_1_b_l_l_1_1_examen_l_n.html#a4aae746e819e7803f1b2e30fa5cab7c9" title="Método que guarda el examen en la base de datos, si encuentra un dato con ese ID, lo edita" alt="" coords="5,13,203,39"/>
+</map>

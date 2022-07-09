@@ -1,0 +1,7 @@
+<map id="Capa.BLL.ClienteLN.Borrar" name="Capa.BLL.ClienteLN.Borrar">
+<area shape="rect" id="node1" title="Borra el dato de la tabla con el ID enviado" alt="" coords="5,42,184,69"/>
+<area shape="rect" id="node2" href="$class_capa_1_1_d_a_l_1_1_cliente_d_b.html#a5d4649831b14d441b393261b8f936578" title="Borra el dato de la tabla con el ID enviado" alt="" coords="232,42,416,69"/>
+<area shape="rect" id="node3" href="$class_factory_database.html#aa672d2475fcc8dfa6c7ee8de0ec7e271" title=" " alt="" coords="464,5,667,47"/>
+<area shape="rect" id="node5" href="$interface_i_data_base.html#aaa25b726841cc38116b6240f7aae7806" title=" " alt="" coords="469,71,661,98"/>
+<area shape="rect" id="node4" href="$class_factory_conexion.html#af0cef9e7b040eae7f25fef14ac0d8750" title=" " alt="" coords="715,13,941,39"/>
+</map>

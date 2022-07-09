@@ -1,0 +1,7 @@
+<map id="UI.MantenimientoExamenes.toolStripBtnBorrar_Click" name="UI.MantenimientoExamenes.toolStripBtnBorrar_Click">
+<area shape="rect" id="node1" title="pide confirmación y borra el registro seleccionado de la bd" alt="" coords="5,57,216,98"/>
+<area shape="rect" id="node2" href="$interface_capa_1_1_b_l_l_1_1_i_examen_l_n.html#a9c6504baded5af35893c22240e30c92f" title=" " alt="" coords="297,5,486,32"/>
+<area shape="rect" id="node3" href="$class_u_i_1_1_mantenimiento_examenes.html#ad10fa4c6627e18bf37cd2fad1a555124" title="llena el datagrid on los objetos de la bd" alt="" coords="297,57,486,98"/>
+<area shape="rect" id="node5" href="$class_u_i_1_1_mantenimiento_examenes.html#a5ded54c64e36b3e14e214d9eab04007f" title="deshabilita y limpia objetos gráficos" alt="" coords="264,123,519,149"/>
+<area shape="rect" id="node4" href="$interface_capa_1_1_b_l_l_1_1_i_examen_l_n.html#ab33b521d1030661ba949fd2c9f91c51e" title=" " alt="" coords="567,57,767,98"/>
+</map>

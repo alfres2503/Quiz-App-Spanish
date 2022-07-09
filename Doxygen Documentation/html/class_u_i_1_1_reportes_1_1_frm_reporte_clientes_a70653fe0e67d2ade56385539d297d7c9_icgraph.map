@@ -1,0 +1,5 @@
+<map id="UI.Reportes.FrmReporteClientes.toolStripBtnBuscar_Click" name="UI.Reportes.FrmReporteClientes.toolStripBtnBuscar_Click">
+<area shape="rect" id="node1" title="Usa un stored procedure para buscar según lo escrito en el textbox y carga el reporte" alt="" coords="528,5,763,47"/>
+<area shape="rect" id="node2" href="$class_u_i_1_1_reportes_1_1_frm_reporte_clientes.html#ae32ad4e372a8e4465dc1f868f5f9abe2" title="Required method for Designer support &#45; do not modify the contents of this method with the code editor..." alt="" coords="267,5,480,47"/>
+<area shape="rect" id="node3" href="$class_u_i_1_1_reportes_1_1_frm_reporte_clientes.html#a29f4962da1628c35e2c98b1df0362537" title=" " alt="" coords="5,5,219,47"/>
+</map>

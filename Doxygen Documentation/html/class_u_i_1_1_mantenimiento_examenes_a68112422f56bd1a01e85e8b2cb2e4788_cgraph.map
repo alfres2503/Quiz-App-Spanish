@@ -1,0 +1,13 @@
+<map id="UI.MantenimientoExamenes.MantenimientoExamenes" name="UI.MantenimientoExamenes.MantenimientoExamenes">
+<area shape="rect" id="node1" title=" " alt="" coords="5,153,195,194"/>
+<area shape="rect" id="node2" href="$class_u_i_1_1_mantenimiento_examenes.html#a1f95580d9112f0066024966dad5527a9" title="Required method for Designer support &#45; do not modify the contents of this method with the code editor..." alt="" coords="243,153,432,194"/>
+<area shape="rect" id="node3" href="$class_u_i_1_1_mantenimiento_examenes.html#a1138d6ec47ffcaa62f72f082bdd57286" title="pide confirmación y borra el registro seleccionado de la bd" alt="" coords="480,54,691,95"/>
+<area shape="rect" id="node8" href="$class_u_i_1_1_mantenimiento_examenes.html#a28915e3cb12a63036d237a7daaa6c3f8" title="Coloca los datos del objeto seleccionado en el panel derecho para su edición" alt="" coords="480,185,691,226"/>
+<area shape="rect" id="node10" href="$class_u_i_1_1_mantenimiento_examenes.html#a5042a1e57592af465c0d23cb7750c9c7" title="Reinicia la interfaz para crear un nuevo examen" alt="" coords="480,119,691,161"/>
+<area shape="rect" id="node11" href="$class_u_i_1_1_mantenimiento_examenes.html#a9fc9d02cae216b459b62b7ac842ec7ca" title="cierra la ventana" alt="" coords="480,250,691,291"/>
+<area shape="rect" id="node4" href="$interface_capa_1_1_b_l_l_1_1_i_examen_l_n.html#a9c6504baded5af35893c22240e30c92f" title=" " alt="" coords="771,5,961,32"/>
+<area shape="rect" id="node5" href="$class_u_i_1_1_mantenimiento_examenes.html#ad10fa4c6627e18bf37cd2fad1a555124" title="llena el datagrid on los objetos de la bd" alt="" coords="771,57,961,98"/>
+<area shape="rect" id="node7" href="$class_u_i_1_1_mantenimiento_examenes.html#a5ded54c64e36b3e14e214d9eab04007f" title="deshabilita y limpia objetos gráficos" alt="" coords="739,125,993,152"/>
+<area shape="rect" id="node6" href="$interface_capa_1_1_b_l_l_1_1_i_examen_l_n.html#ab33b521d1030661ba949fd2c9f91c51e" title=" " alt="" coords="1041,57,1241,98"/>
+<area shape="rect" id="node9" href="$class_u_i_1_1_mantenimiento_examenes.html#aca855d88cbca12546e122d3cee0855f0" title="Habilita objetos gráficos" alt="" coords="749,183,983,209"/>
+</map>

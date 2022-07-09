@@ -1,0 +1,7 @@
+<map id="UI.MantenimientoExamenes.habilitar" name="UI.MantenimientoExamenes.habilitar">
+<area shape="rect" id="node1" title="Habilita objetos gráficos" alt="" coords="739,46,973,73"/>
+<area shape="rect" id="node2" href="$class_u_i_1_1_mantenimiento_examenes.html#a28915e3cb12a63036d237a7daaa6c3f8" title="Coloca los datos del objeto seleccionado en el panel derecho para su edición" alt="" coords="480,5,691,47"/>
+<area shape="rect" id="node5" href="$class_u_i_1_1_mantenimiento_examenes.html#a5042a1e57592af465c0d23cb7750c9c7" title="Reinicia la interfaz para crear un nuevo examen" alt="" coords="480,71,691,112"/>
+<area shape="rect" id="node3" href="$class_u_i_1_1_mantenimiento_examenes.html#a1f95580d9112f0066024966dad5527a9" title="Required method for Designer support &#45; do not modify the contents of this method with the code editor..." alt="" coords="243,39,432,80"/>
+<area shape="rect" id="node4" href="$class_u_i_1_1_mantenimiento_examenes.html#a68112422f56bd1a01e85e8b2cb2e4788" title=" " alt="" coords="5,39,195,80"/>
+</map>

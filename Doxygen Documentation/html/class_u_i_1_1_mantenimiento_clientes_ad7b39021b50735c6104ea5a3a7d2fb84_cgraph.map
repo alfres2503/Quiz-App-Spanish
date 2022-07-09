@@ -1,0 +1,8 @@
+<map id="UI.MantenimientoClientes.btnAceptar_Click" name="UI.MantenimientoClientes.btnAceptar_Click">
+<area shape="rect" id="node1" title="Actualiza los datos del cliente editado en la bd" alt="" coords="5,86,197,127"/>
+<area shape="rect" id="node2" href="$interface_capa_1_1_b_l_l_1_1_i_cliente_l_n.html#a4ebd65ae35805de515df77f12188c5c1" title=" " alt="" coords="263,5,467,32"/>
+<area shape="rect" id="node3" href="$class_u_i_1_1_mantenimiento_clientes.html#a7d7e35bdf150f7e4d1b9d65ef946ff3d" title="Carga los datos de la bd al datagrid y ajusta este para que se vea bien" alt="" coords="278,57,453,98"/>
+<area shape="rect" id="node5" href="$class_u_i_1_1_mantenimiento_clientes.html#a870ce11bfeff24f3816e24e8d591061c" title="deshabilita y limpia elementos gráficos" alt="" coords="245,123,485,149"/>
+<area shape="rect" id="node6" href="$class_u_i_1_1_mantenimiento_clientes.html#a8b8b61c6f2e8774c0d2a995e8b36b4c7" title="Conversor de imagen a bytes" alt="" coords="257,174,473,215"/>
+<area shape="rect" id="node4" href="$interface_capa_1_1_b_l_l_1_1_i_cliente_l_n.html#a86ca76162184ed225709c283c1cdc718" title=" " alt="" coords="533,57,725,98"/>
+</map>

@@ -1,0 +1,5 @@
+Este archivo fue creado para un proyecto de programación III
+Su función es evaluar si la app se abre por primera vez 
+No hay necesidad de conservarlo si ya revisó el proyecto
+
+Atentamente: Alfredo Suárez

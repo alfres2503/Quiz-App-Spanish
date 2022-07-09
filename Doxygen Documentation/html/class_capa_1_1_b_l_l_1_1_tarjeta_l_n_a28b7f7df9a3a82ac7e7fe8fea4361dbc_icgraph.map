@@ -1,0 +1,4 @@
+<map id="Capa.BLL.TarjetaLN.ObtenerTodos" name="Capa.BLL.TarjetaLN.ObtenerTodos">
+<area shape="rect" id="node1" title="Sirve para ver todas las tarjetas" alt="" coords="293,5,481,47"/>
+<area shape="rect" id="node2" href="$class_u_i_1_1_facturacion_examenes.html#ae7f9697f9760e4c59d20b89d9e5591ae" title="Configura los combobox, los label y asigna el número de factura" alt="" coords="5,5,245,47"/>
+</map>

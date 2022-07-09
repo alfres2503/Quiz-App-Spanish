@@ -1,0 +1,5 @@
+<map id="UI.MantenimientoExamenes.btnPreguntas_Click" name="UI.MantenimientoExamenes.btnPreguntas_Click">
+<area shape="rect" id="node1" title="Abre una ventana para editar las preguntas del examen seleccionado" alt="" coords="5,5,212,47"/>
+<area shape="rect" id="node2" href="$class_u_i_1_1_mantenimiento_examenes.html#ad10fa4c6627e18bf37cd2fad1a555124" title="llena el datagrid on los objetos de la bd" alt="" coords="260,5,449,47"/>
+<area shape="rect" id="node3" href="$interface_capa_1_1_b_l_l_1_1_i_examen_l_n.html#ab33b521d1030661ba949fd2c9f91c51e" title=" " alt="" coords="497,5,697,47"/>
+</map>

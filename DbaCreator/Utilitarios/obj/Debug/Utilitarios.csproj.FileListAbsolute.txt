@@ -1,0 +1,9 @@
+C:\Users\Alfredo\OneDrive - Universidad Técnica Nacional\Escritorio\Proyecto Programacion III\DbaCreator\Utilitarios\obj\Debug\Utilitarios.csproj.AssemblyReference.cache
+C:\Users\Alfredo\OneDrive - Universidad Técnica Nacional\Escritorio\Proyecto Programacion III\DbaCreator\Utilitarios\obj\Debug\Utilitarios.csproj.CoreCompileInputs.cache
+C:\Users\Alfredo\OneDrive - Universidad Técnica Nacional\Escritorio\Proyecto Programacion III\DbaCreator\Utilitarios\bin\Debug\Utilitarios.dll
+C:\Users\Alfredo\OneDrive - Universidad Técnica Nacional\Escritorio\Proyecto Programacion III\DbaCreator\Utilitarios\bin\Debug\Utilitarios.pdb
+C:\Users\Alfredo\OneDrive - Universidad Técnica Nacional\Escritorio\Proyecto Programacion III\DbaCreator\Utilitarios\bin\Debug\MessagingToolkit.QRCode.dll
+C:\Users\Alfredo\OneDrive - Universidad Técnica Nacional\Escritorio\Proyecto Programacion III\DbaCreator\Utilitarios\obj\Debug\Utilitarios.csproj.CopyComplete
+C:\Users\Alfredo\OneDrive - Universidad Técnica Nacional\Escritorio\Proyecto Programacion III\DbaCreator\Utilitarios\obj\Debug\Utilitarios.dll
+C:\Users\Alfredo\OneDrive - Universidad Técnica Nacional\Escritorio\Proyecto Programacion III\DbaCreator\Utilitarios\obj\Debug\Utilitarios.pdb
+C:\Users\Alfredo\OneDrive - Universidad Técnica Nacional\Escritorio\Proyecto Programacion III\DbaCreator\Utilitarios\bin\Debug\Utilitarios.dll.config

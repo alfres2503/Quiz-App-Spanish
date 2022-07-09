@@ -1,0 +1,12 @@
+<map id="UI.InicioSesion.InicioSesion" name="UI.InicioSesion.InicioSesion">
+<area shape="rect" id="node1" title=" " alt="" coords="5,209,188,235"/>
+<area shape="rect" id="node2" href="$class_u_i_1_1_inicio_sesion.html#a7d4dec5f052a78c0047ec207a7df294d" title="Required method for Designer support &#45; do not modify the contents of this method with the code editor..." alt="" coords="236,201,395,243"/>
+<area shape="rect" id="node3" href="$class_u_i_1_1_inicio_sesion.html#ab7fbd1013451135d1dc87dc21c3cbe9e" title="Verifica los datos y si todo es correcto inicia la aplicación" alt="" coords="471,5,632,47"/>
+<area shape="rect" id="node5" href="$class_u_i_1_1_inicio_sesion.html#adf59672943a589bf922ad730b1c4937c" title="Abre la ventana de registro" alt="" coords="453,71,649,112"/>
+<area shape="rect" id="node6" href="$class_u_i_1_1_inicio_sesion.html#ad88ed0e0821862cd17ca32964792e76c" title="Cierra la aplicación" alt="" coords="473,136,629,177"/>
+<area shape="rect" id="node7" href="$class_u_i_1_1_inicio_sesion.html#a4c3315eacc45f87d50f1b5376a097047" title="Sirve para ver la contraseña digitada" alt="" coords="448,201,655,243"/>
+<area shape="rect" id="node8" href="$class_u_i_1_1_inicio_sesion.html#abdacbd7c8bd1086d543e37ab5b67641b" title=" " alt="" coords="443,267,660,294"/>
+<area shape="rect" id="node9" href="$class_u_i_1_1_inicio_sesion.html#a427347a15a83ce508d2364837972c41f" title="Para hacer login con enter" alt="" coords="451,319,651,360"/>
+<area shape="rect" id="node10" href="$class_u_i_1_1_inicio_sesion.html#ac310114790bfd765380ce6bc7f99e8ee" title="Para escribir la contraseña" alt="" coords="482,384,621,425"/>
+<area shape="rect" id="node4" href="$interface_capa_1_1_b_l_l_1_1_i_cliente_l_n.html#a94d88d3d63b4cd5900468bcae6fac8ce" title=" " alt="" coords="708,5,900,47"/>
+</map>

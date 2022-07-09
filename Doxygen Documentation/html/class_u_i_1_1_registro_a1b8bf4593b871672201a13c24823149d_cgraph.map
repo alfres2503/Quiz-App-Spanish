@@ -1,0 +1,8 @@
+<map id="UI.Registro.Registro_Load" name="UI.Registro.Registro_Load">
+<area shape="rect" id="node1" title="Llena el combo países" alt="" coords="5,42,179,69"/>
+<area shape="rect" id="node2" href="$class_capa_1_1_b_l_l_1_1_pais_l_n.html#a82d489c620f965671c52d0b55bc0cb63" title="Usado para ver todos los países" alt="" coords="227,42,437,69"/>
+<area shape="rect" id="node3" href="$class_capa_1_1_d_a_l_1_1_pais_d_b.html#ab51157f3fc5da33d13af4abefbb3cc2f" title="Usado para ver todos los países" alt="" coords="485,42,700,69"/>
+<area shape="rect" id="node4" href="$class_factory_database.html#aa672d2475fcc8dfa6c7ee8de0ec7e271" title=" " alt="" coords="748,5,951,47"/>
+<area shape="rect" id="node6" href="$interface_i_data_base.html#a11b1c5783c11f26e56e15a1ed3553846" title=" " alt="" coords="759,71,940,98"/>
+<area shape="rect" id="node5" href="$class_factory_conexion.html#af0cef9e7b040eae7f25fef14ac0d8750" title=" " alt="" coords="999,13,1225,39"/>
+</map>

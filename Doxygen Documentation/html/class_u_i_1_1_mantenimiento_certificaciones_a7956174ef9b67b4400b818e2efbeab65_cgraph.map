@@ -1,0 +1,16 @@
+<map id="UI.MantenimientoCertificaciones.InitializeComponent" name="UI.MantenimientoCertificaciones.InitializeComponent">
+<area shape="rect" id="node1" title="Required method for Designer support &#45; do not modify the contents of this method with the code editor..." alt="" coords="5,201,217,243"/>
+<area shape="rect" id="node2" href="$class_u_i_1_1_mantenimiento_certificaciones.html#a55f6e33b3bcdc804f74fef1567895aaa" title="Valida los datos y los guarda/actualiza en la base de datos" alt="" coords="267,71,497,112"/>
+<area shape="rect" id="node7" href="$class_u_i_1_1_mantenimiento_certificaciones.html#a67d0654503d1aa54b1d3c79bd4d4c721" title="Llama al método deshabilitar" alt="" coords="267,201,497,243"/>
+<area shape="rect" id="node8" href="$class_u_i_1_1_mantenimiento_certificaciones.html#a478260c9b3aed49792e11d00dc697632" title="Carga los datos y captura excepciones" alt="" coords="269,5,495,47"/>
+<area shape="rect" id="node9" href="$class_u_i_1_1_mantenimiento_certificaciones.html#a96cd5477add35d19c82efc0b3d4ba673" title="Pregunta al usuario si está seguro de querer borrar y mediante la capa BLL borra dcho registro" alt="" coords="265,136,499,177"/>
+<area shape="rect" id="node11" href="$class_u_i_1_1_mantenimiento_certificaciones.html#ab48443724d11a25e30c14a098105cd89" title="Coloca los datos del objeto seleccionado para poder ser editados en el panel derecho" alt="" coords="265,332,499,373"/>
+<area shape="rect" id="node13" href="$class_u_i_1_1_mantenimiento_certificaciones.html#aa23bf4a7f8c01aecb02712a1f2b9fd21" title="Se resetea la ventana para poder crear una nueva certificación" alt="" coords="265,267,499,308"/>
+<area shape="rect" id="node14" href="$class_u_i_1_1_mantenimiento_certificaciones.html#a0b12fb1dfefceeca0b6084789584d589" title="cierra la ventana" alt="" coords="265,397,499,439"/>
+<area shape="rect" id="node3" href="$class_u_i_1_1_mantenimiento_certificaciones.html#ad57dd0aae446a564a488e79840a17d35" title="Llena el datagridview con las certificaciones en la base de datos" alt="" coords="580,5,792,47"/>
+<area shape="rect" id="node5" href="$class_u_i_1_1_mantenimiento_certificaciones.html#a6b9ad6646a596d2c813d38a248bfd1cf" title="deshabilita y resetea o limpia botones y elementos gráficos" alt="" coords="547,206,825,233"/>
+<area shape="rect" id="node6" href="$interface_capa_1_1_b_l_l_1_1_i_certificacion_l_n.html#af803945d67e8d371fe619f9a03ea86d5" title=" " alt="" coords="597,71,775,112"/>
+<area shape="rect" id="node4" href="$interface_capa_1_1_b_l_l_1_1_i_certificacion_l_n.html#a36714bc4d1fcb756a7c277ecfd678239" title=" " alt="" coords="873,5,1051,47"/>
+<area shape="rect" id="node10" href="$interface_capa_1_1_b_l_l_1_1_i_certificacion_l_n.html#a92c6400fcc3c5be4d58d3266c5eff0f3" title=" " alt="" coords="597,136,775,177"/>
+<area shape="rect" id="node12" href="$class_u_i_1_1_mantenimiento_certificaciones.html#a23cf723ba1fc5e14fd91e4780b494895" title="habilita botones y elementos gráficos" alt="" coords="557,306,815,333"/>
+</map>

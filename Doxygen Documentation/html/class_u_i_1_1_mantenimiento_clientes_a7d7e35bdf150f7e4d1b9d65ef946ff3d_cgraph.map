@@ -1,0 +1,4 @@
+<map id="UI.MantenimientoClientes.CargarDatos" name="UI.MantenimientoClientes.CargarDatos">
+<area shape="rect" id="node1" title="Carga los datos de la bd al datagrid y ajusta este para que se vea bien" alt="" coords="5,5,180,47"/>
+<area shape="rect" id="node2" href="$interface_capa_1_1_b_l_l_1_1_i_cliente_l_n.html#a86ca76162184ed225709c283c1cdc718" title=" " alt="" coords="228,5,420,47"/>
+</map>

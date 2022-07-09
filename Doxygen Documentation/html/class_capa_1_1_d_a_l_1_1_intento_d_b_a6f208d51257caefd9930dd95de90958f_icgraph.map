@@ -1,0 +1,10 @@
+<map id="Capa.DAL.IntentoDB.MarcarIntentoExitoso" name="Capa.DAL.IntentoDB.MarcarIntentoExitoso">
+<area shape="rect" id="node1" title="Si el cliente gana el examen se marca como exitoso" alt="" coords="1184,71,1371,112"/>
+<area shape="rect" id="node2" href="$class_capa_1_1_b_l_l_1_1_intento_l_n.html#ad894dac8e3a20abcf3ae05e8951d632b" title="Si el cliente gana el examen se marca como exitoso" alt="" coords="953,71,1136,112"/>
+<area shape="rect" id="node3" href="$class_u_i_1_1_realizar_examen.html#ac2c776da7e4a4d12bc76e8d898f91a06" title="Revisa el resultado final del examen, en caso de aprobado abre el reporte de certificado" alt="" coords="727,71,905,112"/>
+<area shape="rect" id="node4" href="$class_u_i_1_1_realizar_examen.html#a07044394b2de98b2a762f15b7c9a15e8" title="Botón para que el cliente pueda avanzar de pregunta" alt="" coords="469,5,679,47"/>
+<area shape="rect" id="node7" href="$class_u_i_1_1_realizar_examen.html#ae4130f5bbeef9e4e7f7d4574fd24dc42" title="Si ya se inició el examen y el usuario cierra la ventana, arroja la revisión del examen" alt="" coords="482,71,666,112"/>
+<area shape="rect" id="node8" href="$class_u_i_1_1_realizar_examen.html#a72418fe23555fb152f743a3a4c1566d3" title="Estos son los eventos que pasan cada que el reloj avanza" alt="" coords="481,137,667,163"/>
+<area shape="rect" id="node5" href="$class_u_i_1_1_realizar_examen.html#ac117330174cb002d7448eb81e9a5d255" title="Required method for Designer support &#45; do not modify the contents of this method with the code editor..." alt="" coords="237,71,421,112"/>
+<area shape="rect" id="node6" href="$class_u_i_1_1_realizar_examen.html#a06595234ea4b23145939307c6f82a7a8" title=" " alt="" coords="5,71,189,112"/>
+</map>

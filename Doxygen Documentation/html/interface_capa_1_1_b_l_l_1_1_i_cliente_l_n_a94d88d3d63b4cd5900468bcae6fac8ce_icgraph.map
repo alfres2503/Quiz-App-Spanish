@@ -1,0 +1,9 @@
+<map id="Capa.BLL.IClienteLN.ObtenerPorID" name="Capa.BLL.IClienteLN.ObtenerPorID">
+<area shape="rect" id="node1" title=" " alt="" coords="696,39,888,80"/>
+<area shape="rect" id="node2" href="$class_u_i_1_1_inicio_sesion.html#ab7fbd1013451135d1dc87dc21c3cbe9e" title="Verifica los datos y si todo es correcto inicia la aplicación" alt="" coords="487,5,648,47"/>
+<area shape="rect" id="node5" href="$class_u_i_1_1_registro.html#a61e785a67335f1d3c187a309a99de8f6" title="Valida los datos y si todo es correcto guarda el nuevo cliente en la bd" alt="" coords="487,71,647,112"/>
+<area shape="rect" id="node3" href="$class_u_i_1_1_inicio_sesion.html#a7d4dec5f052a78c0047ec207a7df294d" title="Required method for Designer support &#45; do not modify the contents of this method with the code editor..." alt="" coords="258,5,417,47"/>
+<area shape="rect" id="node4" href="$class_u_i_1_1_inicio_sesion.html#a043cc09d2e62aa4dbdd19a1e862874c2" title=" " alt="" coords="5,13,188,39"/>
+<area shape="rect" id="node6" href="$class_u_i_1_1_registro.html#aed3107415f0d01413abfeb272915d160" title="Required method for Designer support &#45; do not modify the contents of this method with the code editor..." alt="" coords="236,78,439,105"/>
+<area shape="rect" id="node7" href="$class_u_i_1_1_registro.html#acce1aa651625d92c466bd5c75a707b40" title=" " alt="" coords="27,78,166,105"/>
+</map>

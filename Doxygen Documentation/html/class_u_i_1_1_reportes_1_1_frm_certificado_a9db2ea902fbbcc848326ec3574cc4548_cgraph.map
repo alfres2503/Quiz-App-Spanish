@@ -1,0 +1,8 @@
+<map id="UI.Reportes.FrmCertificado.InitializeComponent" name="UI.Reportes.FrmCertificado.InitializeComponent">
+<area shape="rect" id="node1" title="Required method for Designer support &#45; do not modify the contents of this method with the code editor..." alt="" coords="5,104,188,145"/>
+<area shape="rect" id="node2" href="$class_u_i_1_1_reportes_1_1_frm_certificado.html#a2bff43049c2eef093dfcb21827f41501" title="Intenta cargar el reporte para que sea visible" alt="" coords="246,5,429,47"/>
+<area shape="rect" id="node3" href="$class_u_i_1_1_reportes_1_1_frm_certificado.html#abd3db03f4b2dd77ff15025fea1778648" title="Exporta el pdf" alt="" coords="236,71,439,112"/>
+<area shape="rect" id="node5" href="$class_u_i_1_1_reportes_1_1_frm_certificado.html#a6ab89310e1f6cdb77546b5b9a5dd6fd4" title="Envía el mail al correo del usuario" alt="" coords="236,136,439,177"/>
+<area shape="rect" id="node6" href="$class_u_i_1_1_reportes_1_1_frm_certificado.html#a01fda2fa05859dad9f144d7f92bc0b0a" title="Cierra la ventana" alt="" coords="236,201,439,243"/>
+<area shape="rect" id="node4" href="$class_u_i_1_1_reportes_1_1_frm_certificado.html#a0c23681a728d0c028061c0797ed70504" title="Método que genera el pdf de la certificación" alt="" coords="487,104,669,145"/>
+</map>

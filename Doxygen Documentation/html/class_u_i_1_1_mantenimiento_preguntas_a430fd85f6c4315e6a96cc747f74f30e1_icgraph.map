@@ -1,0 +1,4 @@
+<map id="UI.MantenimientoPreguntas.imagenBytes" name="UI.MantenimientoPreguntas.imagenBytes">
+<area shape="rect" id="node1" title="Convierte la imagen a bytes" alt="" coords="257,5,485,47"/>
+<area shape="rect" id="node2" href="$class_u_i_1_1_mantenimiento_preguntas.html#a02104176af1560ada05fbb19e5de715c" title="Guarda/actualiza los datos en la bd" alt="" coords="5,5,209,47"/>
+</map>

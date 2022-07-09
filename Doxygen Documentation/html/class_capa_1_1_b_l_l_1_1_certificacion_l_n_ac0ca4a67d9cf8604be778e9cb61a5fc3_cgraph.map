@@ -1,0 +1,7 @@
+<map id="Capa.BLL.CertificacionLN.ObtenerPorID" name="Capa.BLL.CertificacionLN.ObtenerPorID">
+<area shape="rect" id="node1" title="Retorna de la tabla Certificación el dato con el ID buscado" alt="" coords="5,35,180,76"/>
+<area shape="rect" id="node2" href="$class_capa_1_1_d_a_l_1_1_certificacion_d_b.html#a7cde2e98d340ea550f46933927ebae41" title="Retorna de la tabla Certificación el dato con el ID buscado" alt="" coords="228,35,407,76"/>
+<area shape="rect" id="node3" href="$class_factory_database.html#aa672d2475fcc8dfa6c7ee8de0ec7e271" title=" " alt="" coords="455,5,657,47"/>
+<area shape="rect" id="node5" href="$interface_i_data_base.html#a11b1c5783c11f26e56e15a1ed3553846" title=" " alt="" coords="465,71,647,98"/>
+<area shape="rect" id="node4" href="$class_factory_conexion.html#af0cef9e7b040eae7f25fef14ac0d8750" title=" " alt="" coords="705,13,932,39"/>
+</map>

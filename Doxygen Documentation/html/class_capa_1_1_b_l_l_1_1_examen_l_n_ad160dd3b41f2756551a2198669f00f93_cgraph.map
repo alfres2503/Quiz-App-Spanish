@@ -1,0 +1,9 @@
+<map id="Capa.BLL.ExamenLN.ObtenerPorID" name="Capa.BLL.ExamenLN.ObtenerPorID">
+<area shape="rect" id="node1" title="Retorna de la tabla Examen el dato con el ID buscado" alt="" coords="5,64,203,105"/>
+<area shape="rect" id="node2" href="$class_capa_1_1_d_a_l_1_1_examen_d_b.html#abdb07bb23a32c60d24e3644a6e1826e5" title="Retorna de la tabla Examen el dato con el ID buscado" alt="" coords="251,64,473,105"/>
+<area shape="rect" id="node3" href="$class_factory_database.html#aa672d2475fcc8dfa6c7ee8de0ec7e271" title=" " alt="" coords="796,30,999,72"/>
+<area shape="rect" id="node5" href="$interface_i_data_base.html#a11b1c5783c11f26e56e15a1ed3553846" title=" " alt="" coords="807,103,988,130"/>
+<area shape="rect" id="node6" href="$class_capa_1_1_d_a_l_1_1_pregunta_d_b.html#a1f10ab736c92b093202ae4f35794a5e1" title="Método para ver las preguntas de un examen" alt="" coords="521,30,748,72"/>
+<area shape="rect" id="node7" href="$class_capa_1_1_d_a_l_1_1_certificacion_d_b.html#a7cde2e98d340ea550f46933927ebae41" title="Retorna de la tabla Certificación el dato con el ID buscado" alt="" coords="545,96,724,137"/>
+<area shape="rect" id="node4" href="$class_factory_conexion.html#af0cef9e7b040eae7f25fef14ac0d8750" title=" " alt="" coords="1047,38,1273,64"/>
+</map>

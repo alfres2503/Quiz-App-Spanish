@@ -1,0 +1,7 @@
+<map id="Capa.BLL.IntentoLN.MarcarIntentoExitoso" name="Capa.BLL.IntentoLN.MarcarIntentoExitoso">
+<area shape="rect" id="node1" title="Si el cliente gana el examen se marca como exitoso" alt="" coords="5,35,188,76"/>
+<area shape="rect" id="node2" href="$class_capa_1_1_d_a_l_1_1_intento_d_b.html#a6f208d51257caefd9930dd95de90958f" title="Si el cliente gana el examen se marca como exitoso" alt="" coords="236,35,423,76"/>
+<area shape="rect" id="node3" href="$class_factory_database.html#aa672d2475fcc8dfa6c7ee8de0ec7e271" title=" " alt="" coords="471,5,673,47"/>
+<area shape="rect" id="node5" href="$interface_i_data_base.html#aaa25b726841cc38116b6240f7aae7806" title=" " alt="" coords="476,71,668,98"/>
+<area shape="rect" id="node4" href="$class_factory_conexion.html#af0cef9e7b040eae7f25fef14ac0d8750" title=" " alt="" coords="721,13,948,39"/>
+</map>

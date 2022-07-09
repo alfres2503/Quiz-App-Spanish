@@ -1,0 +1,5 @@
+<map id="UI.MantenimientoCertificaciones.MantenimientoCertificaciones_Load" name="UI.MantenimientoCertificaciones.MantenimientoCertificaciones_Load">
+<area shape="rect" id="node1" title="Carga los datos y captura excepciones" alt="" coords="5,5,232,47"/>
+<area shape="rect" id="node2" href="$class_u_i_1_1_mantenimiento_certificaciones.html#ad57dd0aae446a564a488e79840a17d35" title="Llena el datagridview con las certificaciones en la base de datos" alt="" coords="280,5,492,47"/>
+<area shape="rect" id="node3" href="$interface_capa_1_1_b_l_l_1_1_i_certificacion_l_n.html#a36714bc4d1fcb756a7c277ecfd678239" title=" " alt="" coords="540,5,717,47"/>
+</map>

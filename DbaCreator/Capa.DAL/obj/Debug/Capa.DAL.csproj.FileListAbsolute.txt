@@ -1,0 +1,9 @@
+C:\Users\Alfredo\OneDrive - Universidad Técnica Nacional\Escritorio\Proyecto Programacion III\DbaCreator\Capa.DAL\bin\Debug\Capa.DAL.dll
+C:\Users\Alfredo\OneDrive - Universidad Técnica Nacional\Escritorio\Proyecto Programacion III\DbaCreator\Capa.DAL\bin\Debug\Capa.DAL.pdb
+C:\Users\Alfredo\OneDrive - Universidad Técnica Nacional\Escritorio\Proyecto Programacion III\DbaCreator\Capa.DAL\bin\Debug\Capa.Entities.dll
+C:\Users\Alfredo\OneDrive - Universidad Técnica Nacional\Escritorio\Proyecto Programacion III\DbaCreator\Capa.DAL\bin\Debug\Capa.Entities.pdb
+C:\Users\Alfredo\OneDrive - Universidad Técnica Nacional\Escritorio\Proyecto Programacion III\DbaCreator\Capa.DAL\obj\Debug\Capa.DAL.csproj.AssemblyReference.cache
+C:\Users\Alfredo\OneDrive - Universidad Técnica Nacional\Escritorio\Proyecto Programacion III\DbaCreator\Capa.DAL\obj\Debug\Capa.DAL.csproj.CoreCompileInputs.cache
+C:\Users\Alfredo\OneDrive - Universidad Técnica Nacional\Escritorio\Proyecto Programacion III\DbaCreator\Capa.DAL\obj\Debug\Capa.DAL.csproj.CopyComplete
+C:\Users\Alfredo\OneDrive - Universidad Técnica Nacional\Escritorio\Proyecto Programacion III\DbaCreator\Capa.DAL\obj\Debug\Capa.DAL.dll
+C:\Users\Alfredo\OneDrive - Universidad Técnica Nacional\Escritorio\Proyecto Programacion III\DbaCreator\Capa.DAL\obj\Debug\Capa.DAL.pdb

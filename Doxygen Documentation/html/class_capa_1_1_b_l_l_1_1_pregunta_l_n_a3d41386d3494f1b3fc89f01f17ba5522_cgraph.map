@@ -1,0 +1,7 @@
+<map id="Capa.BLL.PreguntaLN.ObtenerPorID" name="Capa.BLL.PreguntaLN.ObtenerPorID">
+<area shape="rect" id="node1" title="Sirve para buscar por ID una pregunta en específico" alt="" coords="5,35,207,76"/>
+<area shape="rect" id="node2" href="$class_capa_1_1_d_a_l_1_1_pregunta_d_b.html#aa56f4b457dafc90f2cb7b3c65ea93fa7" title="Sirve para buscar por ID una pregunta en específico" alt="" coords="255,35,481,76"/>
+<area shape="rect" id="node3" href="$class_factory_database.html#aa672d2475fcc8dfa6c7ee8de0ec7e271" title=" " alt="" coords="529,5,732,47"/>
+<area shape="rect" id="node5" href="$interface_i_data_base.html#a11b1c5783c11f26e56e15a1ed3553846" title=" " alt="" coords="540,71,721,98"/>
+<area shape="rect" id="node4" href="$class_factory_conexion.html#af0cef9e7b040eae7f25fef14ac0d8750" title=" " alt="" coords="780,13,1007,39"/>
+</map>

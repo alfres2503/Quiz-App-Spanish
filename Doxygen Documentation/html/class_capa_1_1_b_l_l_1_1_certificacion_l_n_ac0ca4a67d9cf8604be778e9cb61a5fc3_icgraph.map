@@ -1,0 +1,4 @@
+<map id="Capa.BLL.CertificacionLN.ObtenerPorID" name="Capa.BLL.CertificacionLN.ObtenerPorID">
+<area shape="rect" id="node1" title="Retorna de la tabla Certificación el dato con el ID buscado" alt="" coords="228,5,403,47"/>
+<area shape="rect" id="node2" href="$class_capa_1_1_b_l_l_1_1_certificacion_l_n.html#a9824179805580921b7e9f04f24b092bb" title="Método que guarda la certificacion en la base de datos, si encuentra un dato con ese ID,..." alt="" coords="5,5,180,47"/>
+</map>

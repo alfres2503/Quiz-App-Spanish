@@ -1,0 +1,5 @@
+<map id="UI.MantenimientoCertificaciones.toolStripBtnNuevo_Click" name="UI.MantenimientoCertificaciones.toolStripBtnNuevo_Click">
+<area shape="rect" id="node1" title="Se resetea la ventana para poder crear una nueva certificación" alt="" coords="5,23,239,65"/>
+<area shape="rect" id="node2" href="$class_u_i_1_1_mantenimiento_certificaciones.html#a6b9ad6646a596d2c813d38a248bfd1cf" title="deshabilita y resetea o limpia botones y elementos gráficos" alt="" coords="287,5,565,32"/>
+<area shape="rect" id="node3" href="$class_u_i_1_1_mantenimiento_certificaciones.html#a23cf723ba1fc5e14fd91e4780b494895" title="habilita botones y elementos gráficos" alt="" coords="297,56,555,83"/>
+</map>

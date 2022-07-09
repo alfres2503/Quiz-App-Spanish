@@ -1,0 +1,7 @@
+<map id="UI.MantenimientoCertificaciones.habilitar" name="UI.MantenimientoCertificaciones.habilitar">
+<area shape="rect" id="node1" title="habilita botones y elementos gráficos" alt="" coords="807,46,1064,73"/>
+<area shape="rect" id="node2" href="$class_u_i_1_1_mantenimiento_certificaciones.html#ab48443724d11a25e30c14a098105cd89" title="Coloca los datos del objeto seleccionado para poder ser editados en el panel derecho" alt="" coords="525,5,759,47"/>
+<area shape="rect" id="node5" href="$class_u_i_1_1_mantenimiento_certificaciones.html#aa23bf4a7f8c01aecb02712a1f2b9fd21" title="Se resetea la ventana para poder crear una nueva certificación" alt="" coords="525,71,759,112"/>
+<area shape="rect" id="node3" href="$class_u_i_1_1_mantenimiento_certificaciones.html#a7956174ef9b67b4400b818e2efbeab65" title="Required method for Designer support &#45; do not modify the contents of this method with the code editor..." alt="" coords="265,39,477,80"/>
+<area shape="rect" id="node4" href="$class_u_i_1_1_mantenimiento_certificaciones.html#ad204b374e23326eeca895222fdbad63a" title=" " alt="" coords="5,39,217,80"/>
+</map>

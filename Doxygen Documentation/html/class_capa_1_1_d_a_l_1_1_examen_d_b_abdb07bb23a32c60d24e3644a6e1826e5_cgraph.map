@@ -1,0 +1,8 @@
+<map id="Capa.DAL.ExamenDB.SeleccionarPorId" name="Capa.DAL.ExamenDB.SeleccionarPorId">
+<area shape="rect" id="node1" title="Retorna de la tabla Examen el dato con el ID buscado" alt="" coords="5,64,228,105"/>
+<area shape="rect" id="node2" href="$class_factory_database.html#aa672d2475fcc8dfa6c7ee8de0ec7e271" title=" " alt="" coords="551,30,753,72"/>
+<area shape="rect" id="node4" href="$interface_i_data_base.html#a11b1c5783c11f26e56e15a1ed3553846" title=" " alt="" coords="561,103,743,130"/>
+<area shape="rect" id="node5" href="$class_capa_1_1_d_a_l_1_1_pregunta_d_b.html#a1f10ab736c92b093202ae4f35794a5e1" title="Método para ver las preguntas de un examen" alt="" coords="276,30,503,72"/>
+<area shape="rect" id="node6" href="$class_capa_1_1_d_a_l_1_1_certificacion_d_b.html#a7cde2e98d340ea550f46933927ebae41" title="Retorna de la tabla Certificación el dato con el ID buscado" alt="" coords="300,96,479,137"/>
+<area shape="rect" id="node3" href="$class_factory_conexion.html#af0cef9e7b040eae7f25fef14ac0d8750" title=" " alt="" coords="801,38,1028,64"/>
+</map>

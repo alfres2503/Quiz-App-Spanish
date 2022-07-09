@@ -1,0 +1,4 @@
+<map id="UI.Reportes.ReporteFactura.toolStripBtnMail_Click" name="UI.Reportes.ReporteFactura.toolStripBtnMail_Click">
+<area shape="rect" id="node1" title="Envía el pdf creado al correo del cliente" alt="" coords="5,5,213,47"/>
+<area shape="rect" id="node2" href="$class_u_i_1_1_reportes_1_1_reporte_factura.html#a3cd6a95eb098f2530560bdb88f730715" title="Genera el pdf" alt="" coords="261,5,448,47"/>
+</map>

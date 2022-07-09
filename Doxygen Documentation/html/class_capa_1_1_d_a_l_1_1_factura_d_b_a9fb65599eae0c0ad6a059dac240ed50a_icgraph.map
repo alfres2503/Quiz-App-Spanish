@@ -1,0 +1,5 @@
+<map id="Capa.DAL.FacturaDB.InsertarDetalleFactura" name="Capa.DAL.FacturaDB.InsertarDetalleFactura">
+<area shape="rect" id="node1" title="Metodo que inserta un detalle de factura en la base de datos" alt="" coords="492,5,687,47"/>
+<area shape="rect" id="node2" href="$class_capa_1_1_d_a_l_1_1_factura_d_b.html#a5652a05e56cb8b0492d212c95ddef1d0" title="Método que guarda el encabezado de la factura en la base de datos" alt="" coords="247,13,444,39"/>
+<area shape="rect" id="node3" href="$class_capa_1_1_b_l_l_1_1_factura_l_n.html#ad4489de6e50238778b790b26f305badd" title="Método que guarda el encabezado de la factura en la base de datos" alt="" coords="5,13,199,39"/>
+</map>

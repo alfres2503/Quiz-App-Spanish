@@ -1,0 +1,8 @@
+<map id="Capa.DAL.FacturaDB.Guardar" name="Capa.DAL.FacturaDB.Guardar">
+<area shape="rect" id="node1" title="Método que guarda el encabezado de la factura en la base de datos" alt="" coords="5,86,203,113"/>
+<area shape="rect" id="node2" href="$class_factory_database.html#aa672d2475fcc8dfa6c7ee8de0ec7e271" title=" " alt="" coords="493,5,696,47"/>
+<area shape="rect" id="node4" href="$interface_i_data_base.html#aaa25b726841cc38116b6240f7aae7806" title=" " alt="" coords="499,86,691,113"/>
+<area shape="rect" id="node5" href="$class_capa_1_1_d_a_l_1_1_factura_d_b.html#a9fb65599eae0c0ad6a059dac240ed50a" title="Metodo que inserta un detalle de factura en la base de datos" alt="" coords="251,49,445,91"/>
+<area shape="rect" id="node6" href="$class_capa_1_1_entities_1_1_enc_factura.html#a6cad1b52e4132db8e5a736a54bf137fc" title="Obtiene el total que debe pagar el cliente por todos los item comprados" alt="" coords="261,167,435,208"/>
+<area shape="rect" id="node3" href="$class_factory_conexion.html#af0cef9e7b040eae7f25fef14ac0d8750" title=" " alt="" coords="744,13,971,39"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="Utilitarios.QuickResponse.QuickResponseGenerador" name="Utilitarios.QuickResponse.QuickResponseGenerador">
+<area shape="rect" id="node1" title="Método que crea el Codigo QR" alt="" coords="247,5,423,47"/>
+<area shape="rect" id="node2" href="$class_u_i_1_1_facturacion_examenes.html#a2783c782967d2e4390876a2e782a96d1" title="Genera el qr, valida que los datos sean correctos y genera el reporte de la factura" alt="" coords="5,5,199,47"/>
+</map>

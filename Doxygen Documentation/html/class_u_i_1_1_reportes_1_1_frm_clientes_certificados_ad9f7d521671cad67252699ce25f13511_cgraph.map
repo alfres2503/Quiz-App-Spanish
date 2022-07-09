@@ -1,0 +1,6 @@
+<map id="UI.Reportes.FrmClientesCertificados.InitializeComponent" name="UI.Reportes.FrmClientesCertificados.InitializeComponent">
+<area shape="rect" id="node1" title="Required method for Designer support &#45; do not modify the contents of this method with the code editor..." alt="" coords="5,71,241,112"/>
+<area shape="rect" id="node2" href="$class_u_i_1_1_reportes_1_1_frm_clientes_certificados.html#a21c867bac3f0a93d5e1f732a0f647b1b" title="Llena el combobox com las certificaciones existentes" alt="" coords="300,5,536,47"/>
+<area shape="rect" id="node3" href="$class_u_i_1_1_reportes_1_1_frm_clientes_certificados.html#ac6b7e78837202a0982133df14129e396" title="Carga el reporte según la certificación seleccionada en el combobox" alt="" coords="289,71,547,112"/>
+<area shape="rect" id="node4" href="$class_u_i_1_1_reportes_1_1_frm_clientes_certificados.html#a10dfc3526b0e0ed7e94069ec35c996e2" title="Cierra la ventana" alt="" coords="289,136,547,177"/>
+</map>

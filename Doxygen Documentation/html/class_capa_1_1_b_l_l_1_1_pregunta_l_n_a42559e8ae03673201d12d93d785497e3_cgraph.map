@@ -1,0 +1,11 @@
+<map id="Capa.BLL.PreguntaLN.Guardar" name="Capa.BLL.PreguntaLN.Guardar">
+<area shape="rect" id="node1" title="Guarda una pregunta en su tabla de la base de datos" alt="" coords="5,82,207,108"/>
+<area shape="rect" id="node2" href="$class_capa_1_1_d_a_l_1_1_pregunta_d_b.html#a76ec3dc629f531bc78e2bc3bbdd22018" title="Actualiza una pregunta en su tabla de la base de datos" alt="" coords="255,31,472,58"/>
+<area shape="rect" id="node6" href="$class_capa_1_1_d_a_l_1_1_pregunta_d_b.html#a812dfa32ff6738fae64c8f698f3aeae2" title="Guarda una pregunta en su tabla de la base de datos" alt="" coords="261,82,465,108"/>
+<area shape="rect" id="node7" href="$class_capa_1_1_b_l_l_1_1_pregunta_l_n.html#a3d41386d3494f1b3fc89f01f17ba5522" title="Sirve para buscar por ID una pregunta en específico" alt="" coords="263,133,464,174"/>
+<area shape="rect" id="node3" href="$class_factory_database.html#aa672d2475fcc8dfa6c7ee8de0ec7e271" title=" " alt="" coords="795,74,997,116"/>
+<area shape="rect" id="node5" href="$interface_i_data_base.html#aaa25b726841cc38116b6240f7aae7806" title=" " alt="" coords="537,31,729,58"/>
+<area shape="rect" id="node4" href="$class_factory_conexion.html#af0cef9e7b040eae7f25fef14ac0d8750" title=" " alt="" coords="1045,82,1272,108"/>
+<area shape="rect" id="node8" href="$class_capa_1_1_d_a_l_1_1_pregunta_d_b.html#aa56f4b457dafc90f2cb7b3c65ea93fa7" title="Sirve para buscar por ID una pregunta en específico" alt="" coords="520,133,747,174"/>
+<area shape="rect" id="node9" href="$interface_i_data_base.html#a11b1c5783c11f26e56e15a1ed3553846" title=" " alt="" coords="805,140,987,167"/>
+</map>

@@ -1,0 +1,6 @@
+<map id="UI.MantenimientoClientes.toolStripBtnBorrar_Click" name="UI.MantenimientoClientes.toolStripBtnBorrar_Click">
+<area shape="rect" id="node1" title="Pide confirmación al usuario y borra el registro seleccionado" alt="" coords="5,27,200,69"/>
+<area shape="rect" id="node2" href="$interface_capa_1_1_b_l_l_1_1_i_cliente_l_n.html#ae0fc8d56092de1dcc17d5374ce8d7440" title=" " alt="" coords="248,5,429,32"/>
+<area shape="rect" id="node3" href="$class_u_i_1_1_mantenimiento_clientes.html#a7d7e35bdf150f7e4d1b9d65ef946ff3d" title="Carga los datos de la bd al datagrid y ajusta este para que se vea bien" alt="" coords="251,57,426,98"/>
+<area shape="rect" id="node4" href="$interface_capa_1_1_b_l_l_1_1_i_cliente_l_n.html#a86ca76162184ed225709c283c1cdc718" title=" " alt="" coords="477,57,669,98"/>
+</map>

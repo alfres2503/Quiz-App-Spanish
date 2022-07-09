@@ -1,0 +1,5 @@
+<map id="UI.FacturacionExamenes.toolStripBtnFacturar_Click" name="UI.FacturacionExamenes.toolStripBtnFacturar_Click">
+<area shape="rect" id="node1" title="Genera el qr, valida que los datos sean correctos y genera el reporte de la factura" alt="" coords="5,27,199,69"/>
+<area shape="rect" id="node2" href="$interface_capa_1_1_b_l_l_1_1_i_factura_l_n.html#af6193a8f973902a266eb085d4c0893de" title=" " alt="" coords="247,5,443,32"/>
+<area shape="rect" id="node3" href="$class_utilitarios_1_1_quick_response.html#a4850c43c326ea743eb918ee504c91662" title="Método que crea el Codigo QR" alt="" coords="257,57,433,98"/>
+</map>

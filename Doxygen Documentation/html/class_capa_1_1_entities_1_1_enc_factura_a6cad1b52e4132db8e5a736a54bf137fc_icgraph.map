@@ -1,0 +1,8 @@
+<map id="Capa.Entities.EncFactura.ObtenerTotal" name="Capa.Entities.EncFactura.ObtenerTotal">
+<area shape="rect" id="node1" title="Obtiene el total que debe pagar el cliente por todos los item comprados" alt="" coords="805,35,980,76"/>
+<area shape="rect" id="node2" href="$class_u_i_1_1_facturacion_examenes.html#ac1c5895f91df36fda08a78436ae0eef4" title="Agrega las compras a la tabla de detalles de la factura y evita posibles errores" alt="" coords="563,5,754,47"/>
+<area shape="rect" id="node5" href="$class_capa_1_1_d_a_l_1_1_factura_d_b.html#a5652a05e56cb8b0492d212c95ddef1d0" title="Método que guarda el encabezado de la factura en la base de datos" alt="" coords="560,71,757,98"/>
+<area shape="rect" id="node3" href="$class_u_i_1_1_facturacion_examenes.html#a0eb892ba12c2c292c3ba7025f3f17086" title="Required method for Designer support &#45; do not modify the contents of this method with the code editor..." alt="" coords="293,5,512,47"/>
+<area shape="rect" id="node4" href="$class_u_i_1_1_facturacion_examenes.html#a0fbc71aabb1a467ee7ebee19757e3bf4" title=" " alt="" coords="5,5,245,47"/>
+<area shape="rect" id="node6" href="$class_capa_1_1_b_l_l_1_1_factura_l_n.html#ad4489de6e50238778b790b26f305badd" title="Método que guarda el encabezado de la factura en la base de datos" alt="" coords="306,71,499,98"/>
+</map>

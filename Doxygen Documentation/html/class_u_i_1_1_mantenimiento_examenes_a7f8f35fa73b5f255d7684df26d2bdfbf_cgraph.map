@@ -1,0 +1,7 @@
+<map id="UI.MantenimientoExamenes.btnAceptar_Click" name="UI.MantenimientoExamenes.btnAceptar_Click">
+<area shape="rect" id="node1" title="Guarda/actualiza los datos en la bd" alt="" coords="5,64,212,105"/>
+<area shape="rect" id="node2" href="$class_u_i_1_1_mantenimiento_examenes.html#ad10fa4c6627e18bf37cd2fad1a555124" title="llena el datagrid on los objetos de la bd" alt="" coords="293,5,482,47"/>
+<area shape="rect" id="node4" href="$class_u_i_1_1_mantenimiento_examenes.html#a5ded54c64e36b3e14e214d9eab04007f" title="deshabilita y limpia objetos gráficos" alt="" coords="260,71,515,98"/>
+<area shape="rect" id="node5" href="$interface_capa_1_1_b_l_l_1_1_i_examen_l_n.html#ac385f7a3e25a763214089d931ebfd6ae" title=" " alt="" coords="287,122,487,149"/>
+<area shape="rect" id="node3" href="$interface_capa_1_1_b_l_l_1_1_i_examen_l_n.html#ab33b521d1030661ba949fd2c9f91c51e" title=" " alt="" coords="563,5,763,47"/>
+</map>

@@ -1,0 +1,326 @@
+C:\Users\Alfredo\OneDrive - Universidad Técnica Nacional\Escritorio\Proyecto Programacion III\DbaCreator\UI\bin\Debug\UI.exe.config
+C:\Users\Alfredo\OneDrive - Universidad Técnica Nacional\Escritorio\Proyecto Programacion III\DbaCreator\UI\bin\Debug\UI.exe
+C:\Users\Alfredo\OneDrive - Universidad Técnica Nacional\Escritorio\Proyecto Programacion III\DbaCreator\UI\bin\Debug\UI.pdb
+C:\Users\Alfredo\OneDrive - Universidad Técnica Nacional\Escritorio\Proyecto Programacion III\DbaCreator\UI\obj\Debug\UI.csproj.AssemblyReference.cache
+C:\Users\Alfredo\OneDrive - Universidad Técnica Nacional\Escritorio\Proyecto Programacion III\DbaCreator\UI\obj\Debug\UI.InicioSesion.resources
+C:\Users\Alfredo\OneDrive - Universidad Técnica Nacional\Escritorio\Proyecto Programacion III\DbaCreator\UI\obj\Debug\UI.Properties.Resources.resources
+C:\Users\Alfredo\OneDrive - Universidad Técnica Nacional\Escritorio\Proyecto Programacion III\DbaCreator\UI\obj\Debug\UI.csproj.GenerateResource.cache
+C:\Users\Alfredo\OneDrive - Universidad Técnica Nacional\Escritorio\Proyecto Programacion III\DbaCreator\UI\obj\Debug\UI.csproj.CoreCompileInputs.cache
+C:\Users\Alfredo\OneDrive - Universidad Técnica Nacional\Escritorio\Proyecto Programacion III\DbaCreator\UI\obj\Debug\UI.exe
+C:\Users\Alfredo\OneDrive - Universidad Técnica Nacional\Escritorio\Proyecto Programacion III\DbaCreator\UI\obj\Debug\UI.pdb
+C:\Users\Alfredo\OneDrive - Universidad Técnica Nacional\Escritorio\Proyecto Programacion III\DbaCreator\UI\obj\Debug\UI.Registro.resources
+C:\Users\Alfredo\OneDrive - Universidad Técnica Nacional\Escritorio\Proyecto Programacion III\DbaCreator\UI\bin\Debug\Capa.BLL.dll
+C:\Users\Alfredo\OneDrive - Universidad Técnica Nacional\Escritorio\Proyecto Programacion III\DbaCreator\UI\bin\Debug\Capa.Entities.dll
+C:\Users\Alfredo\OneDrive - Universidad Técnica Nacional\Escritorio\Proyecto Programacion III\DbaCreator\UI\bin\Debug\Capa.DAL.dll
+C:\Users\Alfredo\OneDrive - Universidad Técnica Nacional\Escritorio\Proyecto Programacion III\DbaCreator\UI\bin\Debug\Capa.BLL.pdb
+C:\Users\Alfredo\OneDrive - Universidad Técnica Nacional\Escritorio\Proyecto Programacion III\DbaCreator\UI\bin\Debug\Capa.Entities.pdb
+C:\Users\Alfredo\OneDrive - Universidad Técnica Nacional\Escritorio\Proyecto Programacion III\DbaCreator\UI\bin\Debug\Capa.DAL.pdb
+C:\Users\Alfredo\OneDrive - Universidad Técnica Nacional\Escritorio\Proyecto Programacion III\DbaCreator\UI\obj\Debug\UI.csproj.CopyComplete
+C:\Users\Alfredo\OneDrive - Universidad Técnica Nacional\Escritorio\Proyecto Programacion III\DbaCreator\UI\obj\Debug\UI.Menu.resources
+C:\Users\Alfredo\OneDrive - Universidad Técnica Nacional\Escritorio\Proyecto Programacion III\DbaCreator\UI\obj\Debug\UI.MantenimientoClientes.resources
+C:\Users\Alfredo\OneDrive - Universidad Técnica Nacional\Escritorio\Proyecto Programacion III\DbaCreator\UI\obj\Debug\UI.MantenimientoCertificaciones.resources
+C:\Users\Alfredo\OneDrive - Universidad Técnica Nacional\Escritorio\Proyecto Programacion III\DbaCreator\UI\obj\Debug\UI.MantenimientoExamenes.resources
+C:\Users\Alfredo\OneDrive - Universidad Técnica Nacional\Escritorio\Proyecto Programacion III\DbaCreator\UI\obj\Debug\UI.MantenimientoPreguntas.resources
+C:\Users\Alfredo\OneDrive - Universidad Técnica Nacional\Escritorio\Proyecto Programacion III\DbaCreator\UI\obj\Debug\UI.FacturacionExamenes.resources
+C:\Users\Alfredo\OneDrive - Universidad Técnica Nacional\Escritorio\Proyecto Programacion III\DbaCreator\UI\bin\Debug\Utilitarios.dll
+C:\Users\Alfredo\OneDrive - Universidad Técnica Nacional\Escritorio\Proyecto Programacion III\DbaCreator\UI\bin\Debug\MessagingToolkit.QRCode.dll
+C:\Users\Alfredo\OneDrive - Universidad Técnica Nacional\Escritorio\Proyecto Programacion III\DbaCreator\UI\bin\Debug\Utilitarios.pdb
+C:\Users\Alfredo\OneDrive - Universidad Técnica Nacional\Escritorio\Proyecto Programacion III\DbaCreator\UI\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\Alfredo\OneDrive - Universidad Técnica Nacional\Escritorio\Proyecto Programacion III\DbaCreator\UI\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\Alfredo\OneDrive - Universidad Técnica Nacional\Escritorio\Proyecto Programacion III\DbaCreator\UI\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\Alfredo\OneDrive - Universidad Técnica Nacional\Escritorio\Proyecto Programacion III\DbaCreator\UI\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\Alfredo\OneDrive - Universidad Técnica Nacional\Escritorio\Proyecto Programacion III\DbaCreator\UI\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\Alfredo\OneDrive - Universidad Técnica Nacional\Escritorio\Proyecto Programacion III\DbaCreator\UI\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\Alfredo\OneDrive - Universidad Técnica Nacional\Escritorio\Proyecto Programacion III\DbaCreator\UI\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\Alfredo\OneDrive - Universidad Técnica Nacional\Escritorio\Proyecto Programacion III\DbaCreator\UI\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\Alfredo\OneDrive - Universidad Técnica Nacional\Escritorio\Proyecto Programacion III\DbaCreator\UI\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Alfredo\OneDrive - Universidad Técnica Nacional\Escritorio\Proyecto Programacion III\DbaCreator\UI\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\Alfredo\OneDrive - Universidad Técnica Nacional\Escritorio\Proyecto Programacion III\DbaCreator\UI\bin\Debug\EnvDTE.dll
+C:\Users\Alfredo\OneDrive - Universidad Técnica Nacional\Escritorio\Proyecto Programacion III\DbaCreator\UI\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\Alfredo\OneDrive - Universidad Técnica Nacional\Escritorio\Proyecto Programacion III\DbaCreator\UI\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\Alfredo\OneDrive - Universidad Técnica Nacional\Escritorio\Proyecto Programacion III\DbaCreator\UI\bin\Debug\stdole.dll
+C:\Users\Alfredo\OneDrive - Universidad Técnica Nacional\Escritorio\Proyecto Programacion III\DbaCreator\UI\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\Alfredo\OneDrive - Universidad Técnica Nacional\Escritorio\Proyecto Programacion III\DbaCreator\UI\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\Alfredo\OneDrive - Universidad Técnica Nacional\Escritorio\Proyecto Programacion III\DbaCreator\UI\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\Alfredo\OneDrive - Universidad Técnica Nacional\Escritorio\Proyecto Programacion III\DbaCreator\UI\bin\Debug\Microsoft.MSXML.dll
+C:\Users\Alfredo\OneDrive - Universidad Técnica Nacional\Escritorio\Proyecto Programacion III\DbaCreator\UI\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Alfredo\OneDrive - Universidad Técnica Nacional\Escritorio\Proyecto Programacion III\DbaCreator\UI\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Alfredo\OneDrive - Universidad Técnica Nacional\Escritorio\Proyecto Programacion III\DbaCreator\UI\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Alfredo\OneDrive - Universidad Técnica Nacional\Escritorio\Proyecto Programacion III\DbaCreator\UI\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Alfredo\OneDrive - Universidad Técnica Nacional\Escritorio\Proyecto Programacion III\DbaCreator\UI\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Alfredo\OneDrive - Universidad Técnica Nacional\Escritorio\Proyecto Programacion III\DbaCreator\UI\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Alfredo\OneDrive - Universidad Técnica Nacional\Escritorio\Proyecto Programacion III\DbaCreator\UI\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Alfredo\OneDrive - Universidad Técnica Nacional\Escritorio\Proyecto Programacion III\DbaCreator\UI\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Alfredo\OneDrive - Universidad Técnica Nacional\Escritorio\Proyecto Programacion III\DbaCreator\UI\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Alfredo\OneDrive - Universidad Técnica Nacional\Escritorio\Proyecto Programacion III\DbaCreator\UI\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Alfredo\OneDrive - Universidad Técnica Nacional\Escritorio\Proyecto Programacion III\DbaCreator\UI\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Alfredo\OneDrive - Universidad Técnica Nacional\Escritorio\Proyecto Programacion III\DbaCreator\UI\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Alfredo\OneDrive - Universidad Técnica Nacional\Escritorio\Proyecto Programacion III\DbaCreator\UI\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Alfredo\OneDrive - Universidad Técnica Nacional\Escritorio\Proyecto Programacion III\DbaCreator\UI\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Alfredo\OneDrive - Universidad Técnica Nacional\Escritorio\Proyecto Programacion III\DbaCreator\UI\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Alfredo\OneDrive - Universidad Técnica Nacional\Escritorio\Proyecto Programacion III\DbaCreator\UI\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Alfredo\OneDrive - Universidad Técnica Nacional\Escritorio\Proyecto Programacion III\DbaCreator\UI\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Alfredo\OneDrive - Universidad Técnica Nacional\Escritorio\Proyecto Programacion III\DbaCreator\UI\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Alfredo\OneDrive - Universidad Técnica Nacional\Escritorio\Proyecto Programacion III\DbaCreator\UI\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Alfredo\OneDrive - Universidad Técnica Nacional\Escritorio\Proyecto Programacion III\DbaCreator\UI\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Alfredo\OneDrive - Universidad Técnica Nacional\Escritorio\Proyecto Programacion III\DbaCreator\UI\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Alfredo\OneDrive - Universidad Técnica Nacional\Escritorio\Proyecto Programacion III\DbaCreator\UI\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Alfredo\OneDrive - Universidad Técnica Nacional\Escritorio\Proyecto Programacion III\DbaCreator\UI\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Alfredo\OneDrive - Universidad Técnica Nacional\Escritorio\Proyecto Programacion III\DbaCreator\UI\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Alfredo\OneDrive - Universidad Técnica Nacional\Escritorio\Proyecto Programacion III\DbaCreator\UI\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Alfredo\OneDrive - Universidad Técnica Nacional\Escritorio\Proyecto Programacion III\DbaCreator\UI\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Alfredo\OneDrive - Universidad Técnica Nacional\Escritorio\Proyecto Programacion III\DbaCreator\UI\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Alfredo\OneDrive - Universidad Técnica Nacional\Escritorio\Proyecto Programacion III\DbaCreator\UI\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Alfredo\OneDrive - Universidad Técnica Nacional\Escritorio\Proyecto Programacion III\DbaCreator\UI\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Alfredo\OneDrive - Universidad Técnica Nacional\Escritorio\Proyecto Programacion III\DbaCreator\UI\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Alfredo\OneDrive - Universidad Técnica Nacional\Escritorio\Proyecto Programacion III\DbaCreator\UI\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Alfredo\OneDrive - Universidad Técnica Nacional\Escritorio\Proyecto Programacion III\DbaCreator\UI\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Alfredo\OneDrive - Universidad Técnica Nacional\Escritorio\Proyecto Programacion III\DbaCreator\UI\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Alfredo\OneDrive - Universidad Técnica Nacional\Escritorio\Proyecto Programacion III\DbaCreator\UI\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Alfredo\OneDrive - Universidad Técnica Nacional\Escritorio\Proyecto Programacion III\DbaCreator\UI\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Alfredo\OneDrive - Universidad Técnica Nacional\Escritorio\Proyecto Programacion III\DbaCreator\UI\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Alfredo\OneDrive - Universidad Técnica Nacional\Escritorio\Proyecto Programacion III\DbaCreator\UI\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Alfredo\OneDrive - Universidad Técnica Nacional\Escritorio\Proyecto Programacion III\DbaCreator\UI\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Alfredo\OneDrive - Universidad Técnica Nacional\Escritorio\Proyecto Programacion III\DbaCreator\UI\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Alfredo\OneDrive - Universidad Técnica Nacional\Escritorio\Proyecto Programacion III\DbaCreator\UI\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Alfredo\OneDrive - Universidad Técnica Nacional\Escritorio\Proyecto Programacion III\DbaCreator\UI\obj\Debug\UI.Reportes.ReporteFactura.resources
+C:\Users\Alfredo\OneDrive - Universidad Técnica Nacional\Escritorio\Proyecto Programacion III\DbaCreator\UI\obj\Debug\RdlCompile.cache
+C:\Users\Alfredo\OneDrive - Universidad Técnica Nacional\Escritorio\Proyecto Programacion III\DbaCreator\UI\obj\Debug\RdlCompile.compiled
+C:\Users\Alfredo\OneDrive - Universidad Técnica Nacional\Escritorio\Proyecto Programacion III\DbaCreator\UI\obj\Debug\UI.RealizarExamen.resources
+C:\Users\Alfredo\OneDrive - Universidad Técnica Nacional\Escritorio\Proyecto Programacion III\DbaCreator\UI\obj\Debug\UI.Reportes.FrmCertificado.resources
+C:\Users\Alfredo\OneDrive - Universidad Técnica Nacional\Escritorio\Proyecto Programacion III\DbaCreator\UI\obj\Debug\UI.Reportes.frmReporteClientes.resources
+C:\Users\Alfredo\OneDrive - Universidad Técnica Nacional\Escritorio\Proyecto Programacion III\DbaCreator\UI\obj\Debug\UI.Reportes.FrmReporteVentas.resources
+C:\Users\Alfredo\OneDrive - Universidad Técnica Nacional\Escritorio\Proyecto Programacion III\DbaCreator\UI\obj\Debug\UI.Reportes.FrmReporteExamenes.resources
+C:\Users\Alfredo\OneDrive - Universidad Técnica Nacional\Escritorio\Proyecto Programacion III\DbaCreator\UI\obj\Debug\UI.Reportes.FrmClientesCertificados.resources
+C:\Users\Alfredo\OneDrive - Universidad Técnica Nacional\Escritorio\Proyecto Programacion III\DbaCreator\UI\obj\Debug\UI.Reportes.FrmReporteGrafico.resources
+C:\Users\Alfredo\OneDrive - Universidad Técnica Nacional\Escritorio\Proyecto Programacion III\DbaCreator\UI\bin\Debug\log4net.dll
+C:\Users\Alfredo\OneDrive - Universidad Técnica Nacional\Escritorio\Proyecto Programacion III\DbaCreator\UI\bin\Debug\log4net.xml
+C:\Users\Alfredo\OneDrive - Universidad Técnica Nacional\Escritorio\Proyecto Programacion III\DbaCreator\UI\bin\Debug\Utilitarios.dll.config
+C:\Users\Alfredo\OneDrive - Universidad Técnica Nacional\Escritorio\118710756\DbaCreator\UI\obj\Debug\UI.csproj.AssemblyReference.cache
+C:\Users\Alfredo\OneDrive - Universidad Técnica Nacional\Escritorio\118710756\DbaCreator\UI\obj\Debug\UI.FacturacionExamenes.resources
+C:\Users\Alfredo\OneDrive - Universidad Técnica Nacional\Escritorio\118710756\DbaCreator\UI\obj\Debug\UI.MantenimientoExamenes.resources
+C:\Users\Alfredo\OneDrive - Universidad Técnica Nacional\Escritorio\118710756\DbaCreator\UI\obj\Debug\UI.MantenimientoPreguntas.resources
+C:\Users\Alfredo\OneDrive - Universidad Técnica Nacional\Escritorio\118710756\DbaCreator\UI\obj\Debug\UI.MantenimientoCertificaciones.resources
+C:\Users\Alfredo\OneDrive - Universidad Técnica Nacional\Escritorio\118710756\DbaCreator\UI\obj\Debug\UI.RealizarExamen.resources
+C:\Users\Alfredo\OneDrive - Universidad Técnica Nacional\Escritorio\118710756\DbaCreator\UI\obj\Debug\UI.Reportes.FrmCertificado.resources
+C:\Users\Alfredo\OneDrive - Universidad Técnica Nacional\Escritorio\118710756\DbaCreator\UI\obj\Debug\UI.Reportes.FrmClientesCertificados.resources
+C:\Users\Alfredo\OneDrive - Universidad Técnica Nacional\Escritorio\118710756\DbaCreator\UI\obj\Debug\UI.Reportes.FrmReporteClientes.resources
+C:\Users\Alfredo\OneDrive - Universidad Técnica Nacional\Escritorio\118710756\DbaCreator\UI\obj\Debug\UI.Reportes.FrmReporteExamenes.resources
+C:\Users\Alfredo\OneDrive - Universidad Técnica Nacional\Escritorio\118710756\DbaCreator\UI\obj\Debug\UI.Reportes.FrmReporteGrafico.resources
+C:\Users\Alfredo\OneDrive - Universidad Técnica Nacional\Escritorio\118710756\DbaCreator\UI\obj\Debug\UI.Reportes.FrmReporteVentas.resources
+C:\Users\Alfredo\OneDrive - Universidad Técnica Nacional\Escritorio\118710756\DbaCreator\UI\obj\Debug\UI.Reportes.ReporteFactura.resources
+C:\Users\Alfredo\OneDrive - Universidad Técnica Nacional\Escritorio\118710756\DbaCreator\UI\obj\Debug\UI.InicioSesion.resources
+C:\Users\Alfredo\OneDrive - Universidad Técnica Nacional\Escritorio\118710756\DbaCreator\UI\obj\Debug\UI.MantenimientoClientes.resources
+C:\Users\Alfredo\OneDrive - Universidad Técnica Nacional\Escritorio\118710756\DbaCreator\UI\obj\Debug\UI.Menu.resources
+C:\Users\Alfredo\OneDrive - Universidad Técnica Nacional\Escritorio\118710756\DbaCreator\UI\obj\Debug\UI.Properties.Resources.resources
+C:\Users\Alfredo\OneDrive - Universidad Técnica Nacional\Escritorio\118710756\DbaCreator\UI\obj\Debug\UI.Registro.resources
+C:\Users\Alfredo\OneDrive - Universidad Técnica Nacional\Escritorio\118710756\DbaCreator\UI\obj\Debug\UI.csproj.GenerateResource.cache
+C:\Users\Alfredo\OneDrive - Universidad Técnica Nacional\Escritorio\118710756\DbaCreator\UI\obj\Debug\RdlCompile.cache
+C:\Users\Alfredo\OneDrive - Universidad Técnica Nacional\Escritorio\118710756\DbaCreator\UI\obj\Debug\RdlCompile.compiled
+C:\Users\Alfredo\OneDrive - Universidad Técnica Nacional\Escritorio\118710756\DbaCreator\UI\obj\Debug\UI.csproj.CoreCompileInputs.cache
+C:\Users\Alfredo\OneDrive - Universidad Técnica Nacional\Escritorio\118710756\DbaCreator\UI\obj\Debug\UI.exe
+C:\Users\Alfredo\OneDrive - Universidad Técnica Nacional\Escritorio\118710756\DbaCreator\UI\obj\Debug\UI.pdb
+C:\temp\118710756\DbaCreator\UI\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\temp\118710756\DbaCreator\UI\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\temp\118710756\DbaCreator\UI\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\temp\118710756\DbaCreator\UI\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\temp\118710756\DbaCreator\UI\bin\Debug\UI.exe.config
+C:\temp\118710756\DbaCreator\UI\bin\Debug\UI.exe.manifest
+C:\temp\118710756\DbaCreator\UI\bin\Debug\UI.application
+C:\temp\118710756\DbaCreator\UI\bin\Debug\UI.exe
+C:\temp\118710756\DbaCreator\UI\bin\Debug\UI.pdb
+C:\temp\118710756\DbaCreator\UI\bin\Debug\Capa.BLL.dll
+C:\temp\118710756\DbaCreator\UI\bin\Debug\Capa.DAL.dll
+C:\temp\118710756\DbaCreator\UI\bin\Debug\Capa.Entities.dll
+C:\temp\118710756\DbaCreator\UI\bin\Debug\log4net.dll
+C:\temp\118710756\DbaCreator\UI\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\temp\118710756\DbaCreator\UI\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\temp\118710756\DbaCreator\UI\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\temp\118710756\DbaCreator\UI\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\temp\118710756\DbaCreator\UI\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\temp\118710756\DbaCreator\UI\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\temp\118710756\DbaCreator\UI\bin\Debug\Utilitarios.dll
+C:\temp\118710756\DbaCreator\UI\bin\Debug\MessagingToolkit.QRCode.dll
+C:\temp\118710756\DbaCreator\UI\bin\Debug\EnvDTE.dll
+C:\temp\118710756\DbaCreator\UI\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\temp\118710756\DbaCreator\UI\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\temp\118710756\DbaCreator\UI\bin\Debug\stdole.dll
+C:\temp\118710756\DbaCreator\UI\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\temp\118710756\DbaCreator\UI\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\temp\118710756\DbaCreator\UI\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\temp\118710756\DbaCreator\UI\bin\Debug\Microsoft.MSXML.dll
+C:\temp\118710756\DbaCreator\UI\bin\Debug\Capa.BLL.pdb
+C:\temp\118710756\DbaCreator\UI\bin\Debug\Capa.DAL.pdb
+C:\temp\118710756\DbaCreator\UI\bin\Debug\Capa.Entities.pdb
+C:\temp\118710756\DbaCreator\UI\bin\Debug\Utilitarios.pdb
+C:\temp\118710756\DbaCreator\UI\bin\Debug\Utilitarios.dll.config
+C:\temp\118710756\DbaCreator\UI\bin\Debug\log4net.xml
+C:\temp\118710756\DbaCreator\UI\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\temp\118710756\DbaCreator\UI\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\temp\118710756\DbaCreator\UI\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\temp\118710756\DbaCreator\UI\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\temp\118710756\DbaCreator\UI\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\temp\118710756\DbaCreator\UI\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\temp\118710756\DbaCreator\UI\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\temp\118710756\DbaCreator\UI\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\temp\118710756\DbaCreator\UI\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\temp\118710756\DbaCreator\UI\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\temp\118710756\DbaCreator\UI\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\temp\118710756\DbaCreator\UI\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\temp\118710756\DbaCreator\UI\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\temp\118710756\DbaCreator\UI\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\temp\118710756\DbaCreator\UI\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\temp\118710756\DbaCreator\UI\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\temp\118710756\DbaCreator\UI\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\temp\118710756\DbaCreator\UI\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\temp\118710756\DbaCreator\UI\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\temp\118710756\DbaCreator\UI\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\temp\118710756\DbaCreator\UI\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\temp\118710756\DbaCreator\UI\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\temp\118710756\DbaCreator\UI\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\temp\118710756\DbaCreator\UI\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\temp\118710756\DbaCreator\UI\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\temp\118710756\DbaCreator\UI\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\temp\118710756\DbaCreator\UI\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\temp\118710756\DbaCreator\UI\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\temp\118710756\DbaCreator\UI\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\temp\118710756\DbaCreator\UI\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\temp\118710756\DbaCreator\UI\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\temp\118710756\DbaCreator\UI\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\temp\118710756\DbaCreator\UI\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\temp\118710756\DbaCreator\UI\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\temp\118710756\DbaCreator\UI\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\temp\118710756\DbaCreator\UI\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\temp\118710756\DbaCreator\UI\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\temp\118710756\DbaCreator\UI\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\temp\118710756\DbaCreator\UI\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\temp\118710756\DbaCreator\UI\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\temp\118710756\DbaCreator\UI\obj\Debug\UI.csproj.AssemblyReference.cache
+C:\temp\118710756\DbaCreator\UI\obj\Debug\UI.FacturacionExamenes.resources
+C:\temp\118710756\DbaCreator\UI\obj\Debug\UI.MantenimientoExamenes.resources
+C:\temp\118710756\DbaCreator\UI\obj\Debug\UI.MantenimientoPreguntas.resources
+C:\temp\118710756\DbaCreator\UI\obj\Debug\UI.MantenimientoCertificaciones.resources
+C:\temp\118710756\DbaCreator\UI\obj\Debug\UI.RealizarExamen.resources
+C:\temp\118710756\DbaCreator\UI\obj\Debug\UI.Reportes.FrmCertificado.resources
+C:\temp\118710756\DbaCreator\UI\obj\Debug\UI.Reportes.FrmClientesCertificados.resources
+C:\temp\118710756\DbaCreator\UI\obj\Debug\UI.Reportes.FrmReporteClientes.resources
+C:\temp\118710756\DbaCreator\UI\obj\Debug\UI.Reportes.FrmReporteExamenes.resources
+C:\temp\118710756\DbaCreator\UI\obj\Debug\UI.Reportes.FrmReporteGrafico.resources
+C:\temp\118710756\DbaCreator\UI\obj\Debug\UI.Reportes.FrmReporteVentas.resources
+C:\temp\118710756\DbaCreator\UI\obj\Debug\UI.Reportes.ReporteFactura.resources
+C:\temp\118710756\DbaCreator\UI\obj\Debug\UI.InicioSesion.resources
+C:\temp\118710756\DbaCreator\UI\obj\Debug\UI.MantenimientoClientes.resources
+C:\temp\118710756\DbaCreator\UI\obj\Debug\UI.Menu.resources
+C:\temp\118710756\DbaCreator\UI\obj\Debug\UI.Properties.Resources.resources
+C:\temp\118710756\DbaCreator\UI\obj\Debug\UI.Registro.resources
+C:\temp\118710756\DbaCreator\UI\obj\Debug\UI.csproj.GenerateResource.cache
+C:\temp\118710756\DbaCreator\UI\obj\Debug\RdlCompile.cache
+C:\temp\118710756\DbaCreator\UI\obj\Debug\RdlCompile.compiled
+C:\temp\118710756\DbaCreator\UI\obj\Debug\UI.csproj.CoreCompileInputs.cache
+C:\temp\118710756\DbaCreator\UI\obj\Debug\UI.exe.manifest
+C:\temp\118710756\DbaCreator\UI\obj\Debug\UI.application
+C:\temp\118710756\DbaCreator\UI\obj\Debug\UI.csproj.CopyComplete
+C:\temp\118710756\DbaCreator\UI\obj\Debug\UI.exe
+C:\temp\118710756\DbaCreator\UI\obj\Debug\UI.pdb
+C:\118710756\DbaCreator\UI\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\118710756\DbaCreator\UI\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\118710756\DbaCreator\UI\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\118710756\DbaCreator\UI\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\118710756\DbaCreator\UI\bin\Debug\UI.exe.config
+C:\118710756\DbaCreator\UI\bin\Debug\UI.exe.manifest
+C:\118710756\DbaCreator\UI\bin\Debug\UI.application
+C:\118710756\DbaCreator\UI\bin\Debug\UI.exe
+C:\118710756\DbaCreator\UI\bin\Debug\UI.pdb
+C:\118710756\DbaCreator\UI\bin\Debug\Capa.BLL.dll
+C:\118710756\DbaCreator\UI\bin\Debug\Capa.DAL.dll
+C:\118710756\DbaCreator\UI\bin\Debug\Capa.Entities.dll
+C:\118710756\DbaCreator\UI\bin\Debug\log4net.dll
+C:\118710756\DbaCreator\UI\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\118710756\DbaCreator\UI\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\118710756\DbaCreator\UI\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\118710756\DbaCreator\UI\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\118710756\DbaCreator\UI\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\118710756\DbaCreator\UI\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\118710756\DbaCreator\UI\bin\Debug\Utilitarios.dll
+C:\118710756\DbaCreator\UI\bin\Debug\MessagingToolkit.QRCode.dll
+C:\118710756\DbaCreator\UI\bin\Debug\EnvDTE.dll
+C:\118710756\DbaCreator\UI\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\118710756\DbaCreator\UI\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\118710756\DbaCreator\UI\bin\Debug\stdole.dll
+C:\118710756\DbaCreator\UI\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\118710756\DbaCreator\UI\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\118710756\DbaCreator\UI\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\118710756\DbaCreator\UI\bin\Debug\Microsoft.MSXML.dll
+C:\118710756\DbaCreator\UI\bin\Debug\Capa.BLL.pdb
+C:\118710756\DbaCreator\UI\bin\Debug\Capa.DAL.pdb
+C:\118710756\DbaCreator\UI\bin\Debug\Capa.Entities.pdb
+C:\118710756\DbaCreator\UI\bin\Debug\Utilitarios.pdb
+C:\118710756\DbaCreator\UI\bin\Debug\Utilitarios.dll.config
+C:\118710756\DbaCreator\UI\bin\Debug\log4net.xml
+C:\118710756\DbaCreator\UI\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\118710756\DbaCreator\UI\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\118710756\DbaCreator\UI\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\118710756\DbaCreator\UI\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\118710756\DbaCreator\UI\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\118710756\DbaCreator\UI\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\118710756\DbaCreator\UI\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\118710756\DbaCreator\UI\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\118710756\DbaCreator\UI\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\118710756\DbaCreator\UI\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\118710756\DbaCreator\UI\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\118710756\DbaCreator\UI\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\118710756\DbaCreator\UI\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\118710756\DbaCreator\UI\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\118710756\DbaCreator\UI\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\118710756\DbaCreator\UI\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\118710756\DbaCreator\UI\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\118710756\DbaCreator\UI\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\118710756\DbaCreator\UI\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\118710756\DbaCreator\UI\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\118710756\DbaCreator\UI\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\118710756\DbaCreator\UI\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\118710756\DbaCreator\UI\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\118710756\DbaCreator\UI\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\118710756\DbaCreator\UI\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\118710756\DbaCreator\UI\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\118710756\DbaCreator\UI\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\118710756\DbaCreator\UI\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\118710756\DbaCreator\UI\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\118710756\DbaCreator\UI\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\118710756\DbaCreator\UI\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\118710756\DbaCreator\UI\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\118710756\DbaCreator\UI\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\118710756\DbaCreator\UI\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\118710756\DbaCreator\UI\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\118710756\DbaCreator\UI\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\118710756\DbaCreator\UI\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\118710756\DbaCreator\UI\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\118710756\DbaCreator\UI\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\118710756\DbaCreator\UI\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\118710756\DbaCreator\UI\obj\Debug\UI.csproj.AssemblyReference.cache
+C:\118710756\DbaCreator\UI\obj\Debug\UI.FacturacionExamenes.resources
+C:\118710756\DbaCreator\UI\obj\Debug\UI.MantenimientoExamenes.resources
+C:\118710756\DbaCreator\UI\obj\Debug\UI.MantenimientoPreguntas.resources
+C:\118710756\DbaCreator\UI\obj\Debug\UI.MantenimientoCertificaciones.resources
+C:\118710756\DbaCreator\UI\obj\Debug\UI.RealizarExamen.resources
+C:\118710756\DbaCreator\UI\obj\Debug\UI.Reportes.FrmCertificado.resources
+C:\118710756\DbaCreator\UI\obj\Debug\UI.Reportes.FrmClientesCertificados.resources
+C:\118710756\DbaCreator\UI\obj\Debug\UI.Reportes.FrmReporteClientes.resources
+C:\118710756\DbaCreator\UI\obj\Debug\UI.Reportes.FrmReporteExamenes.resources
+C:\118710756\DbaCreator\UI\obj\Debug\UI.Reportes.FrmReporteGrafico.resources
+C:\118710756\DbaCreator\UI\obj\Debug\UI.Reportes.FrmReporteVentas.resources
+C:\118710756\DbaCreator\UI\obj\Debug\UI.Reportes.ReporteFactura.resources
+C:\118710756\DbaCreator\UI\obj\Debug\UI.InicioSesion.resources
+C:\118710756\DbaCreator\UI\obj\Debug\UI.MantenimientoClientes.resources
+C:\118710756\DbaCreator\UI\obj\Debug\UI.Menu.resources
+C:\118710756\DbaCreator\UI\obj\Debug\UI.Properties.Resources.resources
+C:\118710756\DbaCreator\UI\obj\Debug\UI.Registro.resources
+C:\118710756\DbaCreator\UI\obj\Debug\UI.csproj.GenerateResource.cache
+C:\118710756\DbaCreator\UI\obj\Debug\RdlCompile.cache
+C:\118710756\DbaCreator\UI\obj\Debug\RdlCompile.compiled
+C:\118710756\DbaCreator\UI\obj\Debug\UI.csproj.CoreCompileInputs.cache
+C:\118710756\DbaCreator\UI\obj\Debug\UI.exe.manifest
+C:\118710756\DbaCreator\UI\obj\Debug\UI.application
+C:\118710756\DbaCreator\UI\obj\Debug\UI.csproj.CopyComplete
+C:\118710756\DbaCreator\UI\obj\Debug\UI.exe
+C:\118710756\DbaCreator\UI\obj\Debug\UI.pdb

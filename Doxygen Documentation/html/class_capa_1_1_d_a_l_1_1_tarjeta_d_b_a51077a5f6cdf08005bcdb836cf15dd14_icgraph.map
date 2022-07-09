@@ -1,0 +1,5 @@
+<map id="Capa.DAL.TarjetaDB.ObtenerTodos" name="Capa.DAL.TarjetaDB.ObtenerTodos">
+<area shape="rect" id="node1" title="Sirve para ver todas las tarjetas" alt="" coords="529,5,721,47"/>
+<area shape="rect" id="node2" href="$class_capa_1_1_b_l_l_1_1_tarjeta_l_n.html#a28b7f7df9a3a82ac7e7fe8fea4361dbc" title="Sirve para ver todas las tarjetas" alt="" coords="293,5,481,47"/>
+<area shape="rect" id="node3" href="$class_u_i_1_1_facturacion_examenes.html#ae7f9697f9760e4c59d20b89d9e5591ae" title="Configura los combobox, los label y asigna el número de factura" alt="" coords="5,5,245,47"/>
+</map>

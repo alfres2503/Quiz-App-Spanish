@@ -1,0 +1,10 @@
+<map id="UI.MantenimientoClientes.MantenimientoClientes_Load" name="UI.MantenimientoClientes.MantenimientoClientes_Load">
+<area shape="rect" id="node1" title="Llena y ajusta datagrid, también los comboboxes" alt="" coords="5,35,195,76"/>
+<area shape="rect" id="node2" href="$class_u_i_1_1_mantenimiento_clientes.html#a7d7e35bdf150f7e4d1b9d65ef946ff3d" title="Carga los datos de la bd al datagrid y ajusta este para que se vea bien" alt="" coords="261,5,435,47"/>
+<area shape="rect" id="node4" href="$class_capa_1_1_b_l_l_1_1_pais_l_n.html#a82d489c620f965671c52d0b55bc0cb63" title="Usado para ver todos los países" alt="" coords="243,71,453,98"/>
+<area shape="rect" id="node3" href="$interface_capa_1_1_b_l_l_1_1_i_cliente_l_n.html#a86ca76162184ed225709c283c1cdc718" title=" " alt="" coords="513,5,705,47"/>
+<area shape="rect" id="node5" href="$class_capa_1_1_d_a_l_1_1_pais_d_b.html#ab51157f3fc5da33d13af4abefbb3cc2f" title="Usado para ver todos los países" alt="" coords="501,71,716,98"/>
+<area shape="rect" id="node6" href="$class_factory_database.html#aa672d2475fcc8dfa6c7ee8de0ec7e271" title=" " alt="" coords="764,35,967,76"/>
+<area shape="rect" id="node8" href="$interface_i_data_base.html#a11b1c5783c11f26e56e15a1ed3553846" title=" " alt="" coords="775,101,956,127"/>
+<area shape="rect" id="node7" href="$class_factory_conexion.html#af0cef9e7b040eae7f25fef14ac0d8750" title=" " alt="" coords="1015,42,1241,69"/>
+</map>
